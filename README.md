@@ -1,4 +1,4 @@
-# 👋🏾 Hi, I'm Mark Munene Munyiri
+# 👋🏾 Hi, I'm Mark. M. Munyiri
 
 💻 Software Developer | 🤖 Bot Architect | 🧠 AI Tools Builder  
 🎓 Diploma in Software Engineering – Zetech University (Grad: Sept 2026)  
