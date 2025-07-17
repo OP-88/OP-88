@@ -7,7 +7,7 @@
 ---
 
 ### 🔧 What I’m Building
-- 🗣️ **Verba** – Your all-in-one AI-powered meeting assistant (transcribes, summarizes, stores notes
+- 🗣️ **Verba** – Your all-in-one AI-powered meeting assistant (transcribes, summarizes, stores notes)
   
 - 🤖 **MyUtilityBot** – Your personal AI on Telegram (reminders, WhatsApp reply assistant, PC commands)
   
