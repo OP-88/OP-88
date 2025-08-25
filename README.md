@@ -30,7 +30,6 @@
 ### 📫 Connect With Me
 - 📧 Email: **175477596+OP-88@users.noreply.github.com**
 - 💬 Discord: `@marc_jm.`
-- 🤖 Telegram Bot: [@myutilitybot](https://t.me/myutilitybot)
 
 ---
 
