@@ -11,7 +11,7 @@
   
 - 🤖 **MyUtilityBot** – Your personal AI on Telegram (reminders, WhatsApp reply assistant, PC commands)
   
-- 🧠 **Discord GPT Bot** – Multi-model AI with custom personas and smart group replies
+- 🧠 **Discord GPT Bot** – Multi-model AI with custom personas and smart group replies 
   
 - 💬 **WhatsApp AI Reply Assistant** – Context-aware agent that drafts smart responses to quoted messages & manages tasks
 
