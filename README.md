@@ -2,7 +2,7 @@
 
 💻 Software Developer | 🤖 Bot Architect | 🧠 AI Tools Builder  
 🎓 Diploma in Software Engineering – Zetech University (Grad: Sept 2026)  
-🌍 Nairobi, Kenya · 📬 175477596+OP-88@users.noreply.github.com
+🌍 Nairobi, Kenya ·
 
 ---
 
