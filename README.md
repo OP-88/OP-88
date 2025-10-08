@@ -71,7 +71,7 @@ available_for:
 ## 🚀 FEATURED PROJECTS
 
 ### 🎙️ **Verba - Real-Time Audio Transcription Platform**
-[![GitHub](https://img.shields.io/badge/GitHub-View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/OP-88/verba)
+[![GitHub](https://img.shields.io/badge/GitHub-View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/OP-88/Verba.devops)
 [![Status](https://img.shields.io/badge/Status-Production-success?style=for-the-badge)]()
 
 <img align="right" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
