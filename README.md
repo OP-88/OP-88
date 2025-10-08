@@ -1,8 +1,8 @@
 <div align="center">
 
-# 🛡️ OP-88
+#  OP-88
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F7F7&center=true&vCenter=true&width=600&lines=Cybersecurity+Enthusiast;Software+Developer;Digital+Forensics+Student;Building+Secure+Applications)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F7F7&center=true&vCenter=true&width=600&lines=Cybersecurity+Enthusiast;Fullstack+Developer;Building+Secure+Applications)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mark-munene-m)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:175477596+OP-88@users.noreply.github.com)
