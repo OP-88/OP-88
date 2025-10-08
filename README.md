@@ -103,7 +103,7 @@ A full-stack application leveraging AI for real-time audio transcription with RE
 ## 🎯 Current Focus
 
 ```python
-class MarkMunviri:
+class OP-88:
     def __init__(self):
         self.role = "Aspiring Cybersecurity Professional"
         self.current_learning = [
@@ -121,7 +121,7 @@ class MarkMunviri:
     def say_hello(self):
         print("Thanks for stopping by! Let's connect and build secure solutions together!")
 
-me = MarkMunviri()
+me = OP-88()
 me.say_hello()
 ```
 
