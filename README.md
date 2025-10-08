@@ -1,6 +1,6 @@
 # 👋🏾 Hello !!
 
-💻 Software Developer | 🤖 Bot Architect | 🧠 AI Tools Builder  
+💻 Full stack Developer | Junior Penetration Tester | 🤖 Bot Architect | 🧠 AI Tools Builder 
 🎓 Diploma in Software Engineering – Zetech University (Grad: Sept 2026)  
 🌍 Nairobi, Kenya 
 
