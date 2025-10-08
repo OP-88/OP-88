@@ -1,37 +1,99 @@
-# 👋🏾 Hello !!
+👋🏾 Hello !!
+I’m Mark M. Munyiri, a Full Stack Developer | Junior Penetration Tester | Bot Architect | AI Tools Builder based in 🌍 Nairobi, Kenya. Currently completing my Diploma in Software Engineering at Zetech University (Grad: Nov 2025), with plans to pursue a Cybersecurity & Digital Forensics degree in 2026. I craft tools that boost productivity and solve real-world challenges.
 
-💻 Full stack Developer | Junior Penetration Tester | 🤖 Bot Architect | 🧠 AI Tools Builder       
-🎓 Diploma in Software Engineering – Zetech University (Grad: Sept 2026)  
-🌍 Nairobi, Kenya 
+🚀 What I’m Building
 
----
 
-### 🔧 What I’m Building
-- 🗣️ **Verba** – Your all-in-one AI-powered meeting assistant (transcribes, summarizes, stores notes)
+
+Project
+Description
+Status
+Tech Stack
+
+
+
+Verba
+AI-powered meeting assistant (transcribes, summarizes, stores notes)
+In Progress
   
-- 🤖 **MyUtilityBot** – Your personal AI on Telegram (reminders, WhatsApp reply assistant, PC commands)
+
+
+MyUtilityBot
+Telegram-based AI for reminders, WhatsApp replies, PC commands
+Active
+ 
+
+
+Discord GPT Bot
+Multi-model AI with custom personas and group replies
+Prototype
+ 
+
+
+WhatsApp AI
+Context-aware agent for smart replies and task management
+Developing
+ 
+
+
+
+🛠️ Tech Stack & Skills
+
+
+
+Category
+Tools & Languages
+Proficiency
+
+
+
+Languages
   
-- 🧠 **Discord GPT Bot** – Multi-model AI with custom personas and smart group replies 
+Advanced
+
+
+Frameworks
   
-- 💬 **WhatsApp AI Reply Assistant** – Context-aware agent that drafts smart responses to quoted messages & manages tasks
+Intermediate
 
----
 
-### 🧠 Tech Stack
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+Databases
+  
+Intermediate
 
----
 
-### 📫 Connect With Me
-- 📧 Email: **175477596+OP-88@users.noreply.github.com**
-- 💬 Discord: `@op._.88.`
+Security
+Penetration Testing, Secure Coding, Vulnerability Assessment
+Beginner
 
----
 
-### 💡 Fun Fact  
-I don’t just build apps — I build **tools that make people more productive**. Everything I code solves a real-world problem.
+Tools
+ 
+Advanced
+
+
+
+📊 Progress & Vision
+Placeholder for a chart showing proficiency growth (e.g., Python 90%, Cybersecurity 30%). Confirm "yes, generate image" for a custom chart.
+
+Timeline: Diploma (Nov 2025) → Cybersecurity Degree (2026 start).
+Goal: Build secure, AI-driven tools for productivity and enterprise use.
+
+
+🌟 About Me
+I don’t just code—I create solutions. From Verba’s real-time transcription to MyUtilityBot’s WhatsApp automation, my work tackles real problems. Based in Nairobi, I’m eager to collaborate on impactful projects.
+🎥 Demos
+
+Verba Demo: Watch transcription in action.
+MyUtilityBot Demo: See WhatsApp replies & reminders.
+
+📬 Connect
+
+Email: markmunene27@gmail.com
+GitHub: OP-88
+LinkedIn: Add your link
+
+🤝 Contribute
+Fork this repo, enhance my projects (e.g., add SQLite to MyUtilityBot), and submit a PR! Issues welcome.
+📜 License
+MIT © Mark M. Munyiri, 2025
