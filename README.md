@@ -1,4 +1,4 @@
-# 👋 Mark M. Munviri
+# 👋 OP-88
 
 <div align="center">
   
@@ -6,7 +6,7 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:175477596+OP-88@users.noreply.github.com)
 [![Phone](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+254742886442)
 
-**Cybersecurity Enthusiast | Software Developer | Digital Forensics Student**
+** Full stack Developer | Cybersecurity Enthusiast  **
 
 </div>
 
@@ -27,12 +27,12 @@ available_for: ["Entry-level Security Roles", "Junior Developer Positions", "Col
 
 ## 🎓 Education
 
-**Degree in Cybersecurity and Digital Forensics**  
-*Open University of Kenya, Kenya* | Expected Start: Sept 2026
-
 **Diploma in Software Engineering**  
 *Zetech University, Nairobi, Kenya*  
 Expected Completion: December 2025 | Graduation: September 2026 *(Pending official ceremony)*
+
+**Degree in Cybersecurity and Digital Forensics**  
+*Open University of Kenya, Kenya* | Expected Start: Sept 2026
 
 ---
 
