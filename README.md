@@ -16,7 +16,7 @@
 ---
 
 ## 🎯 MISSION STATEMENT
-
+ 
 > *"From building applications to breaking them—ethically. Transforming development expertise into cybersecurity mastery."*
 
 ```yaml
