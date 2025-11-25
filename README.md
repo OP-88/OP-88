@@ -1,5 +1,5 @@
 <div align="center">
-
+   
 # 🛡️ OP-88
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00F7F7&center=true&vCenter=true&width=800&lines=Cybersecurity+Enthusiast+%7C+Ethical+Hacker;Full-Stack+Developer+%7C+Security+First;Building+Secure+%26+Scalable+Applications;From+Building+Apps+to+Breaking+Them+%E2%80%93+Ethically)](https://git.io/typing-svg)
