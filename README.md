@@ -890,28 +890,6 @@ const OP88_Skills = {
 };
 ```
 
-</div>
-
----
-
-## 🌍 VISITOR MAP & STATS
-
-<div align="center">
-
-### 🗺️ Where My Visitors Come From
-
-![Visitor Map](https://profile-counter.glitch.me/OP-88/count.svg)
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=OP-88&theme=radical&hide_border=true" alt="Streak Stats" width="500"/>
-
-### 📈 GitHub Activity Graph
-
-[![OP-88's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=OP-88&theme=react-dark&hide_border=true&area=true)](https://github.com/OP-88)
-
-</div>
-
----
-
 ## 🎁 SUPPORT MY WORK
 
 <div align="center">
