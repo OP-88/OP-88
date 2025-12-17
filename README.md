@@ -68,49 +68,7 @@ available_for:
 <tr>
 <td width="50%" valign="top">
 
-### 🔐 Bachelor's in Cybersecurity & Digital Forensics
-**Open University of Kenya**
-- 📅 **Expected Start:** September 2026
-- 🎯 **Specialization:** Digital Forensics, Incident Response
-- 💡 **Key Focus Areas:**
-  - Network Security Architecture
-  - Digital Evidence Collection
-  - Threat Hunting & Analysis
-  - Security Compliance (ISO 27001)
-  - Cloud Security (AWS/Azure)
 
-</td>
-<td width="50%" valign="top">
-
-### 💻 Diploma in Software Engineering
-**Zetech University**
-- 📅 **Completion:** December 2025
-- 🎓 **Graduation:** September 2026
-- 💡 **Core Competencies:**
-  - Full-Stack Web Development
-  - Database Design & Management
-  - Software Architecture & Design Patterns
-  - Agile Development Methodologies
-  - DevOps & CI/CD Practices
-
-</td>
-</tr>
-</table>
-
-### 🏆 Certifications In Progress
-
-<div align="center">
-
-| Certification | Provider | Target Date | Status |
-|--------------|----------|-------------|--------|
-| 🔐 CompTIA Security+ | CompTIA | Q2 2026 | 📚 Studying |
-| 🎯 Certified Ethical Hacker (CEH) | EC-Council | Q3 2026 | 📋 Planned |
-| 🛡️ OWASP Top 10 | OWASP | Q1 2026 | 🔄 In Progress |
-| ☁️ AWS Certified Cloud Practitioner | Amazon | Q2 2026 | 📋 Planned |
-
-</div>
-
----
 
 ## 🚀 FEATURED PROJECTS
 
