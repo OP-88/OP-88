@@ -23,7 +23,7 @@
 <div align="center">
    
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00F7F7&center=true&vCenter=true&width=800&lines=Cybersecurity+Enthusiast;Security+First+Architect;Building+Secure+%26+Scalable+Applications;From+Building+Apps+to+Breaking+Them+%E2%80%93+Ethically)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00F7F7&center=true&vCenter=true&width=800&lines=Cybersecurity+Enthusiast;Security+Architect;Building+Secure+%26+Scalable+Applications;From+Building+Apps+to+Breaking+Them+%E2%80%93+Ethically)](https://git.io/typing-svg)
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="800">
 
