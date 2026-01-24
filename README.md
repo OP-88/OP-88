@@ -375,6 +375,8 @@ Planned open-source authentication library implementing modern 2FA methods with 
 </tr>
 </table>
 
+<div align="center">
+  
 ### 📧 Best Ways to Reach Me:
 
 ```yaml
