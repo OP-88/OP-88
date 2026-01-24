@@ -547,13 +547,6 @@ If you find my projects helpful or enjoy my content:
 
 </div>
 
----
-
-
----
-
----
-
 
 <sub>Last Updated: November 2025 | Built with ❤️ and ☕ in Nairobi</sub>
 
