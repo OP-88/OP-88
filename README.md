@@ -41,7 +41,7 @@
 
 <div align="center">
 
-
+[![capture](https://snapcraft.io/capture/badge.svg)](https://snapcraft.io/capture)
 
 
 
