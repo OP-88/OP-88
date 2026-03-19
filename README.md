@@ -392,9 +392,10 @@ If you find my projects helpful or enjoy my content:
 
 <br>
 
-### ☕ Buy Me a Coffee (Coming Soon!)
+### 💖 Sponsor My Work
 
-*Setting up sponsorship options for supporting open-source security work*
+[![GitHub Sponsor](https://img.shields.io/badge/Sponsor-%E2%9D%A4-db61a2.svg?logo=GitHub&style=for-the-badge)](https://github.com/sponsors/OP-88)  
+*Support my open-source security research and development!*
 
 </div>
 
