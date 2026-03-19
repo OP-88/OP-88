@@ -99,83 +99,54 @@ available_for:
 
 ## 🚀 FEATURED PROJECTS
 
-### 🎙️ **Verba - Enterprise Audio Transcription Platform**
+### 📸 **Capture - Forensic-Grade Screenshot Enhancement Tool**
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github)](https://github.com/OP-88/Verba.devops)
-[![Status](https://img.shields.io/badge/Status-Production_Ready-success?style=for-the-badge)]()
-[![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)]()
+[![GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github)](https://github.com/verba-mvp/capture)
+[![Snaps](https://img.shields.io/badge/Snap-Available-E95420?style=for-the-badge&logo=snapcraft&logoColor=white)](https://snapcraft.io/capture)
+[![Docker Hub](https://img.shields.io/docker/v/ogq0w3efq/capture?style=for-the-badge&label=Docker%20Hub)](https://hub.docker.com/r/ogq0w3efq/capture)
+[![Status](https://img.shields.io/badge/Status-Released_v2.0.2-success?style=for-the-badge)]()
 
 </div>
 
-<img align="right" width="450" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
+<img align="right" width="450" src="https://raw.githubusercontent.com/OP-88/Capture/main/capture_icon.png">
 
-**🗓️ Timeline:** June 2025 - October 2025 (5 months)
+**🗓️ Timeline:** Q1 2026
 
 **📝 Overview:**  
-An AI-powered real-time audio transcription platform designed for enterprise use. Built with security-first principles, featuring end-to-end encryption, role-based access control, and comprehensive audit logging.
+A local-first desktop application engineered for security professionals. Features granular image quality adjustments, automatic PII redaction (API keys, IPs, emails) via regex and OCR, and maintains strict chain-of-custody. Built with true zero-cloud architecture to ensure no sensitive data leaves the machine.
 
 **⚡ Technology Stack:**
-```typescript
+```python
 {
-  frontend: {
-    framework: "React 18 + TypeScript",
-    realtime: "WebSockets (Socket.io)",
-    styling: "Tailwind CSS + shadcn/ui",
-    state: "Redux Toolkit + RTK Query"
-  },
-  backend: {
-    api: "Node.js + Express.js (RESTful)",
-    processing: "Python (FastAPI) + OpenAI Whisper",
-    database: "MongoDB + Redis (caching)",
-    auth: "JWT + bcrypt"
-  },
-  devops: {
-    containerization: "Docker + Docker Compose",
-    ci_cd: "GitHub Actions",
-    monitoring: "Winston + Morgan (logging)"
-  },
-  security: {
-    encryption: "AES-256 (data at rest)",
-    transport: "TLS 1.3 (data in transit)",
-    validation: "Joi + express-validator",
-    rate_limiting: "express-rate-limit"
-  }
+  frontend: "PyQt6 (GNOME-native dark theme)",
+  core: "Python 3.12+ + OpenCV + Pillow",
+  ocr_redaction: "Tesseract (pytesseract) + Regex",
+  database: "SQLite + SQLAlchemy ORM",
+  packaging: ["Docker", "Flatpak", "RPM", "Snap"]
 }
 ```
 
 **🎯 Key Features & Achievements:**
 
-- 🔒 **Security-First Architecture**
-  - Implemented JWT-based authentication with refresh token rotation
-  - Applied input validation and sanitization to prevent injection attacks
-  - Configured secure HTTP headers (Helmet.js) and CORS policies
-  - Integrated rate limiting to prevent DDoS and brute force attacks
+- 🔒 **Local PII Sanitization**
+  - Automatic and persistent redaction of IPs, emails, and API keys
+  - Powered by Tesseract OCR and custom regex pattern matching
 
-- ⚡ **Real-Time Processing**
-  - Built WebSocket infrastructure for live audio streaming
-  - Achieved <2s latency for transcription delivery
-  - Implemented client-side buffering for network resilience
+- 🖼️ **Granular Enhancement**
+  - Professional-grade brightness, contrast, saturation, and sharpness controls
+  - Real-time preview with non-destructive editing
 
-- 🎨 **User Experience**
-  - Designed intuitive React UI with TypeScript for type safety
-  - Created multi-format export (TXT, SRT, VTT, JSON)
-  - Built comprehensive transcription history with search/filter
+- 🛡️ **Forensic Integrity**
+  - Maintains a chain-of-custody by preserving original captures
+  - Database-backed vault for strict organization and tracking
 
-- 🛠️ **DevOps & Best Practices**
-  - Established Git branching strategy (GitFlow)
-  - Implemented automated testing (Jest + React Testing Library)
-  - Created Docker containerization for consistent deployments
-  - Set up CI/CD pipeline with automated security scanning
+- ☁️ **Zero Cloud Dependencies**
+  - 100% offline processing for complete privacy and isolation
+  - Prevents accidental cloud leaks of sensitive infrastructure data
 
-**📊 Impact:**
-- 📈 Handles 100+ concurrent users
-- ⚡ 99.5% uptime in production
-- 🎯 95% transcription accuracy rate
-- 🔐 Zero security incidents since deployment
-
-**🔗 Live Demo:** [Coming Soon]
+**🔗 Live Demo / Download:** [Get on Snapcraft](https://snapcraft.io/capture)
 
 <br clear="right"/>
 
