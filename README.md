@@ -115,7 +115,7 @@ available_for:
 **🗓️ Timeline:** Q1 2026
 
 **📝 Overview:**  
-A local-first desktop application engineered for security professionals. Features granular image quality adjustments, automatic PII redaction (API keys, IPs, emails) via regex and OCR, and maintains strict chain-of-custody. Built with true zero-cloud architecture to ensure no sensitive data leaves the machine.
+A local-first desktop application engineered for security professionals. <br> Features granular image quality adjustments, automatic PII redaction (API keys, IPs, emails) via regex and OCR, and maintains strict chain-of-custody.<br> Built with true zero-cloud architecture to ensure no sensitive data leaves the machine.
 
 **⚡ Technology Stack:**
 ```python
