@@ -420,18 +420,15 @@ If you find my projects helpful or enjoy my content:
 
 ### 🔐 Cybersecurity Competency Map
 
-| Security Domain | Knowledge Level | Practical Experience | Tools & Technologies |
-|----------------|-----------------|---------------------|---------------------|
-| 🌐 **Web Application Security** | ⭐⭐⭐⭐☆ | Securing production apps | Burp Suite, OWASP ZAP, SQLMap |
-| 🛡️ **Secure Code Review** | ⭐⭐⭐⭐☆ | Code auditing in projects | SonarQube, ESLint Security, Bandit |
-| 🔍 **Vulnerability Assessment** | ⭐⭐⭐☆☆ | CTF & lab environments | Nessus, Nikto, OpenVAS |
-| 🕵️ **Penetration Testing** | ⭐⭐⭐☆☆ | HTB & THM practice | Metasploit, Nmap, Hydra, John |
-| 🌐 **Network Security** | ⭐⭐⭐☆☆ | Home lab setup | Wireshark, tcpdump, pfSense |
-| 🔐 **Cryptography** | ⭐⭐⭐☆☆ | Implementation in apps | OpenSSL, GPG, bcrypt |
-| 📱 **Mobile Security** | ⭐⭐☆☆☆ | Basic OWASP Mobile Top 10 | Frida, MobSF |
-| ☁️ **Cloud Security** | ⭐⭐☆☆☆ | AWS basics & learning | AWS IAM, Security Groups |
-| 🔬 **Malware Analysis** | ⭐⭐☆☆☆ | Static analysis basics | Ghidra, strings, file |
-| 🎯 **Social Engineering** | ⭐⭐☆☆☆ | Theory & awareness | SET (Social Engineer Toolkit) |
+| Security Domain | Knowledge Level | Change | Justification |
+|----------------|-----------------|--------|---------------|
+| 🔍 **Digital Forensics** | ⭐⭐⭐⭐☆ | NEW | Project Capture (forensic imaging) and your 4rensics lab move this from "Learning" to a Core Competency. |
+| 🔬 **Malware Analysis** | ⭐⭐⭐⭐☆ | ⬆️ (+2) | Building Sentinyl (EDR) requires deep knowledge of ntdll.dll hooks and process behavior. This is no longer "basic." |
+| 🛡️ **Device Hardening** | ⭐⭐⭐⭐☆ | NEW | Your Fedora 43 / GNOME daily driver and the Toolbox repo scripts prove you can secure the "Iron" itself. |
+| 🔐 **Secure Code Review** | ⭐⭐⭐⭐☆ | — | Still a heavyweight skill thanks to your Product Security Audit role at Bricklabs. |
+| 🌐 **Web App Security** | ⭐⭐⭐⭐☆ | — | Your Verba and Therameets architecture remains a top-tier dev skill. |
+| 🕵️ **Penetration Testing** | ⭐⭐⭐☆☆ | — | Steady growth. You're using these skills to test your own hardening scripts. |
+| 🌐 **Network Security** | ⭐⭐⭐☆☆ | — | Solidified by your CCNA 1-3 and Ubuntu home lab container networking. |
 
 **Legend:** ⭐⭐⭐⭐⭐ Expert | ⭐⭐⭐⭐☆ Advanced | ⭐⭐⭐☆☆ Intermediate | ⭐⭐☆☆☆ Beginner | ⭐☆☆☆☆ Learning
 
