@@ -426,7 +426,7 @@ If you find my projects helpful or enjoy my content:
 | 🔬 **Malware Analysis** | ⭐⭐⭐⭐☆ | ⬆️ (+2) | Sentinyl EDR development & ntdll hooking. |
 | 🛡️ **Device Hardening** | ⭐⭐⭐⭐☆ | NEW | Secured Fedora & custom Toolbox scripts. |
 | 🔐 **Secure Code Review** | ⭐⭐⭐⭐☆ | — | Product Security Auditor at Bricklabs. |
-| 🌐 **Web App Security** | ⭐⭐⭐⭐☆ | — | Secure architecture for Verba & Therameets. |
+| 🌐 **Web App Security** | ⭐⭐⭐⭐☆ | — | Secure architecture for Verba & Bricklabs' projects. |
 | 🕵️ **Penetration Testing** | ⭐⭐⭐☆☆ | — | Testing custom hardening scripts. |
 | 🌐 **Network Security** | ⭐⭐⭐☆☆ | — | CCNA 1-3 & Ubuntu container networking. |
 
