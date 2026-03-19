@@ -146,9 +146,12 @@ A local-first desktop application engineered for security professionals. <br> Fe
   - 100% offline processing for complete privacy and isolation
   - Prevents accidental cloud leaks of sensitive infrastructure data
 
-**🔗 Live Demo / Download:** <br>
-[![Get it from the Snap Store](https://snapcraft.io/en/dark/install.svg)](https://snapcraft.io/capture)
-<br clear="right"/>
+<div align="center">
+  <b>🔗 Live Demo / Download:</b><br><br>
+  <a href="https://snapcraft.io/capture">
+    <img alt="Get it from the Snap Store" src="https://snapcraft.io/en/dark/install.svg" />
+  </a>
+</div>
 
 ---
 
