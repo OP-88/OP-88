@@ -135,7 +135,7 @@ A local-first desktop application engineered for security professionals. <br> Fe
   - Powered by Tesseract OCR and custom regex pattern matching
 
 - 🖼️ **Granular Enhancement**
-  - Professional-grade brightness, contrast, saturation, and sharpness controls
+  - Professional-grade brightness, contrast, saturation, and sharpness controls 
   - Real-time preview with non-destructive editing
 
 - 🛡️ **Forensic Integrity**
