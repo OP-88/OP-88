@@ -86,7 +86,7 @@ available_for:
   - Collaborative CTF Teams
   - Tech Community Speaking
 ```
-
+ 
 <br clear="right"/>
 
 ---
