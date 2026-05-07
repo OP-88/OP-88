@@ -62,7 +62,7 @@ currently:
   learning: ["Cybersecurity", "Digital Forensics", "Penetration Testing"]
   building: ["Secure Applications", "Security Tools", "CTF Challenges"]
   reading: ["OWASP Guidelines", "Security Research Papers"]
-  
+   
 focus_areas:
   - 🔐 Application Security & Secure SDLC
   - 🕵️ Vulnerability Assessment & Penetration Testing
