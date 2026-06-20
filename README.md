@@ -293,18 +293,6 @@ Planned open-source authentication library implementing modern 2FA methods with 
 ---
 
 
-## 💬 LET'S CONNECT & COLLABORATE
-
-<div align="center">
-
-### 🌐 Find Me Online
-
-[![LinkedIn](https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mark-munene-m)
-[![Email](https://img.shields.io/badge/Send_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:markmunene827@gmail.com)
-[![GitHub](https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/OP-88)
-
-<br>
-
 ### 💼 I'm Currently Looking For:
 
 <table>
@@ -344,32 +332,6 @@ Planned open-source authentication library implementing modern 2FA methods with 
 
 <div align="center">
   
-### 📧 Best Ways to Reach Me:
-
-<div align="center">
-
-```yaml
-preferred_contact:
-  professional: "Email (markmunene827@gmail.com)"
-  networking: "LinkedIn (mark-munene-m)"
-  
-response_time:
-  email: "Within 24 hours"
-  linkedin: "Within 48 hours"
-
-availability:
-  timezone: "EAT (UTC+3)"
-  working_hours: "Monday - Friday, 9 AM - 6 PM EAT"
-
-languages:
-  - English (Fluent)
-  - Swahili (Native)
-```
-
-</div>
-
----
-
 
 ## 🎁 SUPPORT MY WORK
 
@@ -394,20 +356,9 @@ If you find my projects helpful or enjoy my content:
 
 ---
 
-
-**💌 Let's Build a Secure Digital Future Together**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mark-munene-m)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:markmunene827@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/OP-88)
-
-<br>
-
 ![Wave](https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif)
 
 **⚡ Remember: Security is not a feature, it's a foundation ⚡**
-
-<sub>Last Updated: November 2025 | Built with ❤️ and ☕</sub>
 
 ---
 
