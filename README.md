@@ -1,3 +1,4 @@
+ 
 <br>
 
 ```ascii
@@ -269,7 +270,12 @@ Planned open-source authentication library implementing modern 2FA methods with 
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/OP-88/OP-88/main/stats.svg" alt="GitHub stats: total contributions and current streak" width="500"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=OP-88&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00f7f7&icon_color=00f7f7&text_color=c9d1d9" alt="GitHub Stats"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OP-88&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00f7f7&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
+
+<img src="https://streak-stats.demolab.com/?user=OP-88&theme=radical&hide_border=true&background=0d1117&stroke=00f7f7&ring=00f7f7&fire=ff6b6b&currStreakLabel=00f7f7" alt="GitHub Streak" width="500"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=OP-88&theme=react-dark&hide_border=true&area=true&bg_color=0d1117&color=00f7f7&line=00f7f7&point=ff6b6b" alt="Contribution Graph"/>
 
 </div>
 
