@@ -162,46 +162,6 @@ A local-first desktop application engineered for security professionals. <br> Fe
 
 <img align="right" width="450" src="https://raw.githubusercontent.com/OP-88/Capture/main/capture_icon.png">
 
-**🗓️ Timeline:** Q1 2026
-
-**📝 Overview:**  
-A local-first desktop application engineered for security professionals. <br> Features granular image quality adjustments, automatic PII redaction (API keys, IPs, emails) via regex and OCR, and maintains strict chain-of-custody.<br> Built with true zero-cloud architecture to ensure no sensitive data leaves the machine.
-
-**⚡ Technology Stack:**
-```python
-{
-  frontend: "PyQt6 (GNOME-native dark theme)",
-  core: "Python 3.12+ + OpenCV + Pillow",
-  ocr_redaction: "Tesseract (pytesseract) + Regex",
-  database: "SQLite + SQLAlchemy ORM",
-  packaging: ["Docker", "Flatpak", "RPM", "Snap"]
-}
-```
-
-**🎯 Key Features & Achievements:**
-
-- 🔒 **Local PII Sanitization**
-  - Automatic and persistent redaction of IPs, emails, and API keys
-  - Powered by Tesseract OCR and custom regex pattern matching
-
-- 🖼️ **Granular Enhancement**
-  - Professional-grade brightness, contrast, saturation, and sharpness controls 
-  - Real-time preview with non-destructive editing
-
-- 🛡️ **Forensic Integrity**
-  - Maintains a chain-of-custody by preserving original captures
-  - Database-backed vault for strict organization and tracking
-
-- ☁️ **Zero Cloud Dependencies**
-  - 100% offline processing for complete privacy and isolation
-  - Prevents accidental cloud leaks of sensitive infrastructure data
-
-<div align="center">
-  <b>🔗 Live Demo / Download:</b><br><br>
-  <a href="https://snapcraft.io/capture">
-    <img alt="Get it from the Snap Store" src="https://snapcraft.io/en/dark/install.svg" />
-  </a>
-</div>
 
 ---
 
