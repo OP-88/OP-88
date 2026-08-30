@@ -160,8 +160,6 @@ A local-first desktop application engineered for security professionals. <br> Fe
 
 </div>
 
-<img align="right" width="450" src="https://raw.githubusercontent.com/OP-88/Capture/main/capture_icon.png">
-
 
 ---
 
