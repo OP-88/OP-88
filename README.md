@@ -98,10 +98,66 @@ available_for:
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github)](https://github.com/verba-mvp/capture)
-[![Snaps](https://img.shields.io/badge/Snap-Available-E95420?style=for-the-badge&logo=snapcraft&logoColor=white)](https://snapcraft.io/capture)
+[![GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github)](https://github.com/OP-88/Capture)
+[![Snap Store](https://img.shields.io/badge/Snap-capture-E95420?style=for-the-badge&logo=snapcraft&logoColor=white)](https://snapcraft.io/capture)
 [![Docker Hub](https://img.shields.io/docker/v/ogq0w3efq/capture?style=for-the-badge&label=Docker%20Hub)](https://hub.docker.com/r/ogq0w3efq/capture)
-[![Status](https://img.shields.io/badge/Status-Released_v2.0.2-success?style=for-the-badge)]()
+[![CI](https://img.shields.io/github/actions/workflow/status/OP-88/Capture/ci.yml?style=for-the-badge&label=CI&logo=github-actions)](https://github.com/OP-88/Capture/actions/workflows/ci.yml)
+[![Status](https://img.shields.io/badge/Status-Released_v2.0.3-success?style=for-the-badge)](https://github.com/OP-88/Capture/releases)
+
+</div>
+
+<img align="right" width="450" src="https://raw.githubusercontent.com/OP-88/Capture/main/capture_icon.png">
+
+**🗓️ Timeline:** Q1–Q3 2026
+
+**📝 Overview:**  
+A local-first desktop application engineered for security professionals. <br> Features granular image quality adjustments, automatic PII redaction (API keys, IPs, emails) via regex and OCR, and maintains strict chain-of-custody.<br> Built with true zero-cloud architecture to ensure no sensitive data leaves the machine. Published to the **Snap Store** with a fully automated CI/CD pipeline.
+
+**⚡ Technology Stack:**
+```python
+{
+  frontend: "PySide6 (GNOME-native dark theme)",
+  core: "Python 3.12+ + OpenCV + Pillow",
+  ocr_redaction: "Tesseract (pytesseract) + Regex",
+  database: "SQLite + SQLAlchemy ORM",
+  packaging: ["Snap", "Docker", "RPM", "Flatpak"],
+  ci_cd: "GitHub Actions (CI gate → snap build → Snap Store publish)"
+}
+```
+
+**🎯 Key Features & Achievements:**
+
+- 🔒 **Local PII Sanitization**
+  - Automatic and persistent redaction of IPs, emails, and API keys
+  - Powered by Tesseract OCR and custom regex pattern matching
+
+- 🖼️ **Granular Enhancement**
+  - Professional-grade brightness, contrast, saturation, and sharpness controls 
+  - Real-time preview with non-destructive editing
+
+- 💾 **Smart Download**
+  - Folder picker — save directly to Home, Pictures, Documents, Downloads, Music, Videos, Desktop, or any custom path
+  - Always saves the latest edited version with EXIF metadata stripped
+
+- 🛡️ **Forensic Integrity**
+  - Maintains a chain-of-custody by preserving original captures
+  - Database-backed vault for strict organization and tracking
+
+- ☁️ **Zero Cloud Dependencies**
+  - 100% offline processing for complete privacy and isolation
+  - Prevents accidental cloud leaks of sensitive infrastructure data
+
+- ⚙️ **Automated CI/CD Pipeline**
+  - GitHub Actions: tests → amd64+arm64 snap builds → Snap Store publish on every tag
+  - Full test suite runs as a gate on every push/PR
+
+<div align="center">
+  <b>🔗 Live Demo / Download:</b><br><br>
+  <a href="https://snapcraft.io/capture">
+    <img alt="Get it from the Snap Store" src="https://snapcraft.io/en/dark/install.svg" />
+  </a>
+</div>
+
 
 </div>
 
@@ -468,6 +524,6 @@ If you find my projects helpful or enjoy my content:
 </div>
 
 
-<sub>Last Updated: May 2026 | Built with ❤️ and ☕ in Nairobi</sub>
+<sub>Last Updated: August 2026 | Built with ❤️ and ☕ in Nairobi</sub>
 
 </div>
