@@ -12,7 +12,6 @@
                             ║          ╚═════╝ ╚═╝           ╚════╝  ╚════╝                  ║
                             ║                                                                ║
                             ║         Full stack developer | Ethical Hacker                  ║
-                            ║                      Nairobi, Kenya 🇰🇪                         ║ 
                             ║                                                                ║
                             ╚════════════════════════════════════════════════════════════════╝
 ```
@@ -524,6 +523,6 @@ If you find my projects helpful or enjoy my content:
 </div>
 
 
-<sub>Last Updated: August 2026 | Built with ❤️ and ☕ in Nairobi</sub>
+<sub>Last Updated: August 2026 | Built with ❤️</sub>
 
 </div>
