@@ -359,14 +359,17 @@ If you find my projects helpful or enjoy my content:
 🤝 **Connect with me** - Let's build something together
 
 <br>
+<div align="center">
+---
 
-### 💖 Sponsor My Work
+### Support Independent Security Research & Accessible Labs
 
-[![GitHub Sponsor](https://img.shields.io/badge/Sponsor-%E2%9D%A4-db61a2.svg?logo=GitHub&style=for-the-badge)](https://github.com/sponsors/OP-88)  
-*Support my open-source security research and development!*
+[![GitHub Sponsor](https://img.shields.io/badge/Sponsor-%E2%9D%A4-db61a2.svg?logo=GitHub&style=for-the-badge)](https://github.com/sponsors/OP-88)
+[![Support on Ko-fi](https://img.shields.io/badge/Support%20on%20Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/op88)
+
+*Building local-first defensive tooling and accessible, hands-on security infrastructure with Cybersec Labs.*
 
 </div>
-
 ---
 
 ![Wave](https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif)
