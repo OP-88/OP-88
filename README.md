@@ -23,8 +23,9 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="800">
 
-![Profile Views](https://komarev.com/ghpvc/?username=OP-88&color=00f7f7&style=for-the-badge&label=PROFILE+VIEWS)
-[![GitHub followers](https://img.shields.io/github/followers/OP-88?style=for-the-badge&color=00f7f7&labelColor=0d1117)](https://github.com/OP-88?tab=followers)
+[![Profile Views](https://komarev.com/ghpvc/?username=OP-88&color=00f7f7&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/OP-88)
+[![GitHub followers](https://img.shields.io/github/followers/OP-88?style=for-the-badge&color=00f7f7&labelColor=0d1117&logo=github)](https://github.com/OP-88?tab=followers)
+[![GitHub Stars](https://img.shields.io/github/stars/OP-88?style=for-the-badge&color=00f7f7&labelColor=0d1117&logo=github)](https://github.com/OP-88?tab=repositories)
 
 </div>
 
