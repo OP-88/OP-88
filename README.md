@@ -287,6 +287,8 @@ Legend: Expert | Advanced | Intermediate | Beginner | Learning
 
 </div>
 
+---
+
 ### **Rates:**
 - Security Services: Negotiable based on scope
 - Development Services: $15-30/hour (Entry-level)
