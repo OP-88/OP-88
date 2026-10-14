@@ -87,33 +87,32 @@ Local-first desktop application engineered for security professionals. Combines 
 </td>
 <td width="50%" valign="top">
 
-### SecureAuth
-> Multi-Factor Authentication System
+### Infralock
+> Biometric Authentication Engine for Linux
 
 <div align="center">
 
-[![Status](https://img.shields.io/badge/Status-In_Development-blue?style=for-the-badge)](https://github.com/OP-88)
-[![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](https://github.com/OP-88)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_Code-181717?style=for-the-badge&logo=github)](https://github.com/OP-88/Linux-based-IR-camera-Face-unlock)
+[![License](https://img.shields.io/badge/License-GPL--3.0-green?style=for-the-badge)](https://github.com/OP-88/Linux-based-IR-camera-Face-unlock)
+
+[![Python](https://img.shields.io/badge/Python-3.8+-blue?style=flat-square&logo=python)](https://www.python.org/)
+[![Status](https://img.shields.io/badge/Status-Production-success?style=flat-square)](https://github.com/OP-88/Linux-based-IR-camera-Face-unlock)
 
 </div>
 
 ```
-Stack: Node.js | Express | PostgreSQL | Redis | JWT
+Stack: Python | OpenCV | IR Camera | PAM | PyInstaller
 ```
 
-Open-source authentication library implementing modern 2FA methods with zero-trust architecture. Designed for developers who need production-ready authentication without the vendor lock-in.
+Zero-knowledge biometric authentication engine for Linux using infrared cameras. Air-gapped security with bundled AI models, hardware-bound encryption, and automated PAM integration for system-wide authentication.
 
-**Planned Features:**
-- **TOTP Support** — Time-based One-Time Passwords
-- **WebAuthn** — Hardware key & biometric authentication
-- **Multi-Channel** — SMS/Email verification flows
-- **Session Security** — Comprehensive session management
-- **Rate Limiting** — Built-in DoS protection
-- **Audit Logging** — Complete authentication event tracking
-
-<br>
-
-**Target Release:** Q1 2027
+**Core Features:**
+- **Air-Gapped** — Bundled AI models, zero network connections
+- **Zero-Knowledge** — Facial geometry → irreversible 128-d vector
+- **Hardware Bound** — Vault encrypted with machine-id derivation
+- **PAM Integration** — One-click Linux login/sudo injection
+- **Standalone Binary** — Single executable via PyInstaller
+- **GUI & CLI** — Dual interface for enrollment and testing
 
 </td>
 </tr>
@@ -248,7 +247,7 @@ Connect with me — let's build something together
 
 Building local-first defensive tooling and accessible, hands-on security infrastructure with Cybersec Labs.
 
-
+</div>
 
 ---
 
@@ -285,16 +284,12 @@ Legend: Expert | Advanced | Intermediate | Beginner | Learning
 | OWASP Top 10 verification | Data encryption | Blog posts |
 | Detailed reporting | Security hardening | Video walkthroughs |
 
-</div>
-
----
-
-### **Rates:**
+**Rates:**
 - Security Services: Negotiable based on scope
 - Development Services: $15-30/hour (Entry-level)
 - Educational Services: Free for students, paid for companies
 
-### **Preferred Project Types:**
+**Preferred Project Types:**
 - Open-source security tools
 - Educational platforms
 - Web applications (security-focused)
