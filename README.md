@@ -172,6 +172,15 @@ Zero-knowledge biometric authentication engine for Linux using infrared cameras.
 ![CVE Analysis](https://img.shields.io/badge/CVE-Analysis-red?style=for-the-badge)
 ![Security Audits](https://img.shields.io/badge/Security-Audits-orange?style=for-the-badge)
 ![Secure Coding](https://img.shields.io/badge/Secure-Coding-success?style=for-the-badge)
+![Input Validation](https://img.shields.io/badge/Input-Validation-green?style=for-the-badge)
+![Auth](https://img.shields.io/badge/Authentication%2FAuthorization-4A90E2?style=for-the-badge)
+
+![Firewall Config](https://img.shields.io/badge/Firewall-Configuration-blue?style=for-the-badge)
+![IDS/IPS](https://img.shields.io/badge/IDS%2FIPS-Monitoring-blueviolet?style=for-the-badge)
+![VPN](https://img.shields.io/badge/VPN-Setup-9cf?style=for-the-badge)
+![SSL/TLS](https://img.shields.io/badge/SSL%2FTLS-Encryption-informational?style=for-the-badge)
+![Cryptography](https://img.shields.io/badge/Cryptography-AES%20%7C%20SHA--256-yellow?style=for-the-badge)
+![SIEM](https://img.shields.io/badge/SIEM-Log_Analysis-lightgrey?style=for-the-badge)
 
 ### DevOps & Cloud
 
@@ -268,69 +277,81 @@ Legend: Expert | Advanced | Intermediate | Beginner | Learning
 
 ## Freelance & Project Services
 
-### Services I Offer
-
-| Security Services | Development Services | Educational Services |
-|-------------------|---------------------|---------------------|
-| **Security Code Review** | **Full-Stack Development** | **Technical Mentorship** |
-| Manual code auditing | React/Node.js applications | Code reviews |
-| SAST/DAST analysis | RESTful API development | Career guidance |
-| Vulnerability identification | Database design | Security concepts |
-| Remediation guidance | DevOps setup (Docker, CI/CD) | Best practices |
-| **Penetration Testing** | **Security-First Development** | **Content Creation** |
-| Web application testing | Secure coding practices | Technical documentation |
-| API security assessment | Authentication/Authorization | Security tutorials |
-| OWASP Top 10 verification | Data encryption | Blog posts |
-| Detailed reporting | Security hardening | Video walkthroughs |
-
 <div align="center">
 
-### Rates & Availability
+### Services I Offer
 
 </div>
 
 <table>
 <tr>
-<td width="33%" align="center">
+<td width="50%" valign="top">
 
-**Security Services**
+#### Security Services
 
-```
-Negotiable
-Based on scope
-```
+- **Security Code Review**
+  - Manual code auditing
+  - SAST/DAST analysis
+  - Vulnerability identification
+  - Remediation guidance
 
-Security audits, penetration testing, and code review services priced per engagement
+- **Penetration Testing**
+  - Web application testing
+  - API security assessment
+  - OWASP Top 10 verification
+  - Network scanning & exploitation
+  - Detailed reporting
+
+- **Bug Bounty Hunting**
+  - Vulnerability research & disclosure
+  - Application security testing
+  - Responsible disclosure coordination
+  - Proof-of-concept development
+
+- **Security Audits**
+  - Infrastructure security review
+  - Configuration hardening
+  - Compliance assessment
 
 </td>
-<td width="33%" align="center">
+<td width="50%" valign="top">
 
-**Development Services**
+#### Development Services
 
-```
-$15-30/hour
-Entry-level
-```
+- **Full-Stack Development**
+  - React/Node.js applications
+  - RESTful API development
+  - Database design & optimization
+  - Responsive UI/UX implementation
 
-Full-stack development, API design, and DevSecOps implementation
+- **Security-First Development**
+  - Secure coding practices
+  - Authentication/Authorization systems
+  - Data encryption & protection
+  - Security hardening
 
-</td>
-<td width="33%" align="center">
-
-**Educational Services**
-
-```
-Free for students
-Paid for companies
-```
-
-Technical mentorship, training sessions, and content creation
+- **DevSecOps**
+  - CI/CD pipeline setup
+  - Docker containerization
+  - Infrastructure as Code
+  - Automated security testing
 
 </td>
 </tr>
 </table>
 
 <div align="center">
+
+---
+
+### Pricing
+
+**All services are priced on a per-engagement basis.**  
+Rates are negotiable depending on project scope, complexity, and timeline.
+
+[![Contact for Quote](https://img.shields.io/badge/Contact-For_Quote-00f7f7?style=for-the-badge&logo=github)](https://github.com/OP-88)
+
+---
 
 ### Preferred Project Types
 
