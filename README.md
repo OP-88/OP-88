@@ -268,7 +268,6 @@ Connect with me — let's build something together
 
 Building local-first defensive tooling and accessible, hands-on security infrastructure with Cybersec Labs.
 
-</div>
 
 ---
 
@@ -352,6 +351,8 @@ Legend: Expert | Advanced | Intermediate | Beginner | Learning
 </td>
 </tr>
 </table>
+
+</div>
 
 <div align="center">
 
