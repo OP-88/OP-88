@@ -93,7 +93,7 @@ available_for:
 
 ## 🚀 FEATURED PROJECTS
 
-### 📸 **Capture - Forensic-Grade Screenshot Enhancement Tool**
+###  **Capture - Forensic-Grade Screenshot Enhancement Tool**
 
 <div align="center">
 
@@ -109,7 +109,7 @@ available_for:
 
 **🗓️ Timeline:** Q1–Q3 2026
 
-**📝 Overview:**  
+** Overview:**  
 A local-first desktop application engineered for security professionals. <br> Features granular image quality adjustments, automatic PII redaction (API keys, IPs, emails) via regex and OCR, and maintains strict chain-of-custody.<br> Built with true zero-cloud architecture to ensure no sensitive data leaves the machine. Published to the **Snap Store** with a fully automated CI/CD pipeline.
 
 **⚡ Technology Stack:**
@@ -157,12 +157,8 @@ A local-first desktop application engineered for security professionals. <br> Fe
     height="48"
     style="height: 48px; width: auto; max-width: 200px;" 
   />
-</a>
-  </a>
-</div>
-</div>
 
-
+<br>
 ---
 
 ### 🔐 **SecureAuth - Multi-Factor Authentication System** *(Concept)*
