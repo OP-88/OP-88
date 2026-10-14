@@ -258,11 +258,11 @@ Legend: Expert | Advanced | Intermediate | Beginner | Learning
 - Educational Services: Free for students, paid for companies
 
 **Preferred Project Types:**
--Open-source security tools
--Educational platforms
--Web applications (security-focused)
--Security audits for startups
--CTF challenge development
+- Open-source security tools
+- Educational platforms
+- Web applications (security-focused)
+- Security audits for startups
+- CTF challenge development
 
 </div>
 
