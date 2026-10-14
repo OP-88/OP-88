@@ -172,15 +172,7 @@ Zero-knowledge biometric authentication engine for Linux using infrared cameras.
 ![CVE Analysis](https://img.shields.io/badge/CVE-Analysis-red?style=for-the-badge)
 ![Security Audits](https://img.shields.io/badge/Security-Audits-orange?style=for-the-badge)
 ![Secure Coding](https://img.shields.io/badge/Secure-Coding-success?style=for-the-badge)
-![Input Validation](https://img.shields.io/badge/Input-Validation-green?style=for-the-badge)
-![Auth](https://img.shields.io/badge/Authentication%2FAuthorization-4A90E2?style=for-the-badge)
-
-![Firewall Config](https://img.shields.io/badge/Firewall-Configuration-blue?style=for-the-badge)
-![IDS/IPS](https://img.shields.io/badge/IDS%2FIPS-Monitoring-blueviolet?style=for-the-badge)
-![VPN](https://img.shields.io/badge/VPN-Setup-9cf?style=for-the-badge)
-![SSL/TLS](https://img.shields.io/badge/SSL%2FTLS-Encryption-informational?style=for-the-badge)
-![Cryptography](https://img.shields.io/badge/Cryptography-AES%20%7C%20SHA--256-yellow?style=for-the-badge)
-![SIEM](https://img.shields.io/badge/SIEM-Log_Analysis-lightgrey?style=for-the-badge)
+![Bug Bounty](https://img.shields.io/badge/Bug_Bounty-Hunting-blueviolet?style=for-the-badge)
 
 ### DevOps & Cloud
 
