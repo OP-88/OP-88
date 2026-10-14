@@ -287,12 +287,12 @@ Legend: Expert | Advanced | Intermediate | Beginner | Learning
 
 </div>
 
-**Rates:**
+### **Rates:**
 - Security Services: Negotiable based on scope
 - Development Services: $15-30/hour (Entry-level)
 - Educational Services: Free for students, paid for companies
 
-**Preferred Project Types:**
+### **Preferred Project Types:**
 - Open-source security tools
 - Educational platforms
 - Web applications (security-focused)
