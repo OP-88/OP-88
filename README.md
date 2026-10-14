@@ -25,7 +25,6 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=OP-88&color=00f7f7&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/OP-88)
 [![GitHub followers](https://img.shields.io/github/followers/OP-88?style=for-the-badge&color=00f7f7&labelColor=0d1117&logo=github)](https://github.com/OP-88?tab=followers)
-[![GitHub Stars](https://img.shields.io/github/stars/OP-88?style=for-the-badge&color=00f7f7&labelColor=0d1117&logo=github)](https://github.com/OP-88?tab=repositories)
 
 </div>
 
