@@ -175,12 +175,6 @@ Zero-knowledge biometric authentication engine for Linux using infrared cameras.
 ![Input Validation](https://img.shields.io/badge/Input-Validation-green?style=for-the-badge)
 ![Auth](https://img.shields.io/badge/Authentication%2FAuthorization-4A90E2?style=for-the-badge)
 
-![Firewall Config](https://img.shields.io/badge/Firewall-Configuration-blue?style=for-the-badge)
-![IDS/IPS](https://img.shields.io/badge/IDS%2FIPS-Monitoring-blueviolet?style=for-the-badge)
-![VPN](https://img.shields.io/badge/VPN-Setup-9cf?style=for-the-badge)
-![SSL/TLS](https://img.shields.io/badge/SSL%2FTLS-Encryption-informational?style=for-the-badge)
-![Cryptography](https://img.shields.io/badge/Cryptography-AES%20%7C%20SHA--256-yellow?style=for-the-badge)
-![SIEM](https://img.shields.io/badge/SIEM-Log_Analysis-lightgrey?style=for-the-badge)
 
 ### DevOps & Cloud
 
