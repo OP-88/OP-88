@@ -158,7 +158,10 @@ A local-first desktop application engineered for security professionals. <br> Fe
     style="height: 48px; width: auto; max-width: 200px;" 
   />
 
-<br>
+<
+/>
+
+
 ---
 
 ### 🔐 **SecureAuth - Multi-Factor Authentication System** *(Concept)*
