@@ -198,12 +198,32 @@ Zero-knowledge biometric authentication engine for Linux using infrared cameras.
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=OP-88&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00f7f7&icon_color=00f7f7&text_color=c9d1d9" alt="GitHub Stats"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OP-88&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00f7f7&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=OP-88&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00f7f7&icon_color=00f7f7&text_color=c9d1d9">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=OP-88&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00f7f7&icon_color=00f7f7&text_color=c9d1d9" alt="GitHub Stats"/>
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=OP-88&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00f7f7&text_color=c9d1d9&langs_count=8">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OP-88&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00f7f7&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
+</picture>
 
-<img src="https://streak-stats.demolab.com/?user=OP-88&theme=radical&hide_border=true&background=0d1117&stroke=00f7f7&ring=00f7f7&fire=ff6b6b&currStreakLabel=00f7f7" alt="GitHub Streak" width="500"/>
+</div>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=OP-88&theme=react-dark&hide_border=true&area=true&bg_color=0d1117&color=00f7f7&line=00f7f7&point=ff6b6b" alt="Contribution Graph"/>
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=OP-88&theme=radical&hide_border=true&background=0d1117&stroke=00f7f7&ring=00f7f7&fire=ff6b6b&currStreakLabel=00f7f7">
+  <img src="https://streak-stats.demolab.com/?user=OP-88&theme=radical&hide_border=true&background=0d1117&stroke=00f7f7&ring=00f7f7&fire=ff6b6b&currStreakLabel=00f7f7" alt="GitHub Streak" width="500"/>
+</picture>
+
+</div>
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=OP-88&theme=react-dark&hide_border=true&area=true&bg_color=0d1117&color=00f7f7&line=00f7f7&point=ff6b6b">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=OP-88&theme=react-dark&hide_border=true&area=true&bg_color=0d1117&color=00f7f7&line=00f7f7&point=ff6b6b" alt="Contribution Graph"/>
+</picture>
 
 </div>
 
