@@ -1,99 +1,23 @@
- 
-<br>
 
-```ascii
-                            ╔═════════════════════════════════════════════════════════════╗
-                            ║                                                             ║
-                            ║          ██████╗ ██████╗       █████╗  █████╗               ║
-                            ║         ██╔═══██╗██╔══██╗     ██╔══██╗██╔══██╗              ║
-                            ║         ██║   ██║██████╔╝     ╚█████╔╝╚█████╔╝              ║
-                            ║         ██║   ██║██╔═══╝      ██╔══██╗██╔══██╗              ║
-                            ║         ╚██████╔╝██║          ╚█████╔╝╚█████╔╝              ║
-                            ║          ╚═════╝ ╚═╝           ╚════╝  ╚════╝               ║
-                            ║                                                             ║
-                            ║         Full stack developer | Ethical Hacker               ║
-                            ║                                                             ║
-                            ╚═════════════════════════════════════════════════════════════╝
-```
+## About
 
-<br>
+I'm a cybersecurity professional with hands-on experience in application security, penetration testing, and secure software development. I bridge development and security through practical, offensive and defensive expertise.
 
+**Focus Areas:**
+- Application Security & Secure SDLC
+- Vulnerability Assessment & Penetration Testing
+- Identity and Access Management (IAM)
+- Security Automation & Threat Intelligence
+- Network Security & Infrastructure Hardening
+- Security Operations & Incident Response
 
-<div align="center">
-   
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00F7F7&center=true&vCenter=true&width=800&lines=Cybersecurity+Enthusiast;Security+Architect;Building+Secure+%26+Scalable+Applications;From+Building+Apps+to+Breaking+Them+%E2%80%93+Ethically)](https://git.io/typing-svg)
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="800">
-
-
-![Profile Views](https://komarev.com/ghpvc/?username=OP-88&color=00f7f7&style=for-the-badge&label=PROFILE+VIEWS)
-[![GitHub followers](https://img.shields.io/github/followers/OP-88?style=for-the-badge&color=00f7f7&labelColor=0d1117)](https://github.com/OP-88?tab=followers)
-
-</div>
-
-
-<div align="center">
-
-[![capture](https://snapcraft.io/capture/badge.svg)](https://snapcraft.io/capture)
-
-
-
- 
----
-
-## 🎯 ABOUT ME
-
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
-
-```yaml
-alias: "OP-88"
-role: "Aspiring Cybersecurity Professional & Full-Stack Developer"
-mission: "Bridging development and security through ethical hacking"
-motto: "Security is not a product, but a mindset"
-
-currently:
-  learning: ["Cybersecurity", "Digital Forensics", "Penetration Testing"]
-  building: ["Secure Applications", "Security Tools", "CTF Challenges"]
-  reading: ["OWASP Guidelines", "Security Research Papers"]
-   
-focus_areas:
-  - 🔐 Application Security & Secure SDLC
-  - 🕵️ Vulnerability Assessment & Penetration Testing
-  - 🛡️ Identity and Access Management (IAM)
-  - 🔍 Security Automation & Threat Intelligence
-  - 🌐 Network Security & Infrastructure Hardening
-  - 📊 Security Operations & Incident Response
-
-interests:
-  - 🎯 Bug Bounty Hunting
-  - 🚩 Capture The Flag (CTF) Competitions
-  - 🔬 Malware Analysis & Reverse Engineering
-  - 🤖 AI/ML in Cybersecurity
-  - ⛓️ Blockchain Security
-  
-available_for:
-  - Entry-Level Security Analyst/Engineer Roles
-  - Junior Full-Stack Developer Positions
-  - Security Internships & Co-op Programs
-  - Open Source Security Contributions
-  - Collaborative CTF Teams
-  - Tech Community Speaking
-```
- 
-<br clear="right"/>
+**Interests:** Bug Bounty Hunting, CTF Competitions, Malware Analysis, AI/ML in Cybersecurity, Blockchain Security
 
 ---
 
-<table>
-<tr>
-<td width="50%" valign="top">
+## Featured Projects
 
-
-
-## 🚀 FEATURED PROJECTS
-
-###  **Capture - Forensic-Grade Screenshot Enhancement Tool**
+### Capture — Forensic-Grade Screenshot Enhancement Tool
 
 <div align="center">
 
@@ -105,85 +29,37 @@ available_for:
 
 </div>
 
-<img align="right" width="450" src="https://raw.githubusercontent.com/OP-88/Capture/main/capture_icon.png">
+A local-first desktop application for security professionals. Features granular image quality adjustments, automatic PII redaction (API keys, IPs, emails) via regex and OCR, and maintains strict chain-of-custody. Zero-cloud architecture ensures no sensitive data leaves the machine. Published to the Snap Store with fully automated CI/CD pipeline.
 
-**🗓️ Timeline:** Q1–Q3 2026
+**Tech Stack:** Python 3.12+, PySide6, OpenCV, Pillow, Tesseract (pytesseract), SQLite, SQLAlchemy, Snap, Docker
 
-** Overview:**  
-A local-first desktop application engineered for security professionals. <br> Features granular image quality adjustments, automatic PII redaction (API keys, IPs, emails) via regex and OCR, and maintains strict chain-of-custody.<br> Built with true zero-cloud architecture to ensure no sensitive data leaves the machine. Published to the **Snap Store** with a fully automated CI/CD pipeline.
-
-**⚡ Technology Stack:**
-```python
-{
-  frontend: "PySide6 (GNOME-native dark theme)",
-  core: "Python 3.12+ + OpenCV + Pillow",
-  ocr_redaction: "Tesseract (pytesseract) + Regex",
-  database: "SQLite + SQLAlchemy ORM",
-  packaging: ["Snap", "Docker", "RPM", "Flatpak"],
-  ci_cd: "GitHub Actions (CI gate → snap build → Snap Store publish)"
-}
-```
-
-**🎯 Key Features & Achievements:**
-
-- 🔒 **Local PII Sanitization**
-  - Automatic and persistent redaction of IPs, emails, and API keys
-  - Powered by Tesseract OCR and custom regex pattern matching
-
-- 🖼️ **Granular Enhancement**
-  - Professional-grade brightness, contrast, saturation, and sharpness controls 
-  - Real-time preview with non-destructive editing
-
-- 💾 **Smart Download**
-  - Folder picker — save directly to Home, Pictures, Documents, Downloads, Music, Videos, Desktop, or any custom path
-  - Always saves the latest edited version with EXIF metadata stripped
-
-- 🛡️ **Forensic Integrity**
-  - Maintains a chain-of-custody by preserving original captures
-  - Database-backed vault for strict organization and tracking
-
-- ☁️ **Zero Cloud Dependencies**
-  - 100% offline processing for complete privacy and isolation
-  - Prevents accidental cloud leaks of sensitive infrastructure data
-
-- ⚙️ **Automated CI/CD Pipeline**
-  - GitHub Actions: tests → amd64+arm64 snap builds → Snap Store publish on every tag
-  - Full test suite runs as a gate on every push/PR
+**Key Features:**
+- Local PII Sanitization — Automatic redaction of IPs, emails, and API keys via OCR and regex
+- Granular Enhancement — Professional-grade brightness, contrast, saturation, and sharpness controls
+- Smart Download — Save to Home, Pictures, Documents, Downloads, or custom paths with EXIF stripped
+- Forensic Integrity — Database-backed vault preserving original captures for chain-of-custody
+- Zero Cloud Dependencies — 100% offline processing for complete privacy
+- Automated CI/CD — GitHub Actions pipeline with tests → amd64+arm64 snap builds → Snap Store publish
 
 <a href="https://snapcraft.io/capture">
-  <img 
-    alt="Get it from the Snap Store" 
-    src="https://snapcraft.io/static/images/badges/en/snap-store-black.svg" 
-    height="48"
-    style="height: 48px; width: auto; max-width: 200px;" 
-  />
-
-
-
+  <img alt="Get it from the Snap Store" src="https://snapcraft.io/static/images/badges/en/snap-store-black.svg" height="48"/>
+</a>
 
 ---
 
-### 🔐 **SecureAuth - Multi-Factor Authentication System** *(Concept)*
+### SecureAuth — Multi-Factor Authentication System (Concept)
 
-**📝 Overview:**  
 Planned open-source authentication library implementing modern 2FA methods with zero-trust architecture.
 
-**⚡ Planned Tech Stack:** Node.js, Express, PostgreSQL, Redis, JWT
+**Planned Tech Stack:** Node.js, Express, PostgreSQL, Redis, JWT
 
-**🎯 Concept Features:**
-- Time-based One-Time Password (TOTP) 
-- SMS/Email verification
-- Biometric authentication support (WebAuthn)
-- Rate limiting and security mechanisms
-- Comprehensive session management
+**Planned Features:** TOTP, SMS/Email verification, WebAuthn biometric support, rate limiting, session management
 
 ---
 
-## 🛠️ TECHNICAL SKILLS
+## Technical Skills
 
-### 💻 Programming & Scripting
-
-<div align="center">
+### Programming & Scripting
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -192,11 +68,7 @@ Planned open-source authentication library implementing modern 2FA methods with 
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 
-</div>
-
-### 🎨 Frontend Development
-
-<div align="center">
+### Frontend Development
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
@@ -205,11 +77,7 @@ Planned open-source authentication library implementing modern 2FA methods with 
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-</div>
-
-### ⚙️ Backend Development
-
-<div align="center">
+### Backend Development
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
@@ -218,11 +86,7 @@ Planned open-source authentication library implementing modern 2FA methods with 
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
-</div>
-
-### 🗄️ Databases & Storage
-
-<div align="center">
+### Databases & Storage
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -230,11 +94,7 @@ Planned open-source authentication library implementing modern 2FA methods with 
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
-</div>
-
-### 🔐 Cybersecurity Tools & Frameworks
-
-<div align="center">
+### Cybersecurity Tools & Frameworks
 
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white)
@@ -243,19 +103,15 @@ Planned open-source authentication library implementing modern 2FA methods with 
 ![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white)
 ![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
 
-</div>
-
 **Security Expertise:**
-- 🔍 **Vulnerability Assessment:** OWASP Top 10, CVE Analysis, Security Audits
-- 🛡️ **Application Security:** Secure Coding, Input Validation, Authentication/Authorization
-- 🌐 **Network Security:** Firewall Configuration, IDS/IPS, VPN Setup
-- 🔐 **Cryptography:** SSL/TLS, Hashing (bcrypt, SHA-256), Encryption (AES)
-- 📊 **Security Monitoring:** Log Analysis, SIEM Basics, Incident Detection
-- 🎯 **Penetration Testing:** Web App Testing, Network Scanning, Exploitation
+- Vulnerability Assessment: OWASP Top 10, CVE Analysis, Security Audits
+- Application Security: Secure Coding, Input Validation, Authentication/Authorization
+- Network Security: Firewall Configuration, IDS/IPS, VPN Setup
+- Cryptography: SSL/TLS, Hashing (bcrypt, SHA-256), Encryption (AES)
+- Security Monitoring: Log Analysis, SIEM Basics, Incident Detection
+- Penetration Testing: Web App Testing, Network Scanning, Exploitation
 
-### ☁️ DevOps & Cloud
-
-<div align="center">
+### DevOps & Cloud
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -265,21 +121,16 @@ Planned open-source authentication library implementing modern 2FA methods with 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
-</div>
-
-### 🧰 Development Tools
-
-<div align="center">
+### Development Tools
 
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-</div>
 
 ---
 
-## 📊 GITHUB ANALYTICS
+## GitHub Analytics
 
 <div align="center">
 
@@ -292,7 +143,7 @@ Planned open-source authentication library implementing modern 2FA methods with 
 
 </div>
 
-### 🏆 GitHub Trophies
+### GitHub Trophies
 
 <div align="center">
 
@@ -302,188 +153,82 @@ Planned open-source authentication library implementing modern 2FA methods with 
 
 ---
 
+## What I'm Looking For
+
+| Security Roles | Development Roles | Collaborations |
+|----------------|-------------------|----------------|
+| Junior Security Analyst | Junior Full-Stack Developer | Open Source Security Projects |
+| SOC Analyst | Backend Developer (Node/Python) | CTF Team Membership |
+| Application Security Engineer | DevSecOps Engineer | Security Research |
+| Penetration Tester (Entry) | API Developer | Tech Community Building |
+| Security Intern | Security-Focused Developer | Mentorship Opportunities |
 
 ---
 
+## Support My Work
 
-### 💼 I'm Currently Looking For:
+If you find my projects helpful:
 
-<table>
-<tr>
-<td align="center" width="33%">
-
-#### 🔐 Security Roles
-- Junior Security Analyst
-- SOC Analyst
-- Application Security Engineer
-- Penetration Tester (Entry)
-- Security Intern
-
-</td>
-<td align="center" width="33%">
-
-#### 💻 Development Roles
-- Junior Full-Stack Developer
-- Backend Developer (Node/Python)
-- DevSecOps Engineer
-- API Developer
-- Security-Focused Developer
-
-</td>
-<td align="center" width="33%">
-
-#### 🤝 Collaborations
-- Open Source Security Projects
-- CTF Team Membership
-- Security Research
-- Tech Community Building
-- Mentorship Opportunities
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-  
-
-## 🎁 SUPPORT MY WORK
-
-<div align="center">
-
-If you find my projects helpful or enjoy my content:
-
-⭐ **Star my repositories** - It helps others discover the projects  
-🔱 **Fork and contribute** - Open source thrives on collaboration  
-📢 **Share my work** - Spread the knowledge  
-💬 **Provide feedback** - Help me improve  
-🤝 **Connect with me** - Let's build something together
-
-<br>
-<div align="center">
----
+Star my repositories — helps others discover the projects
+Fork and contribute — open source thrives on collaboration
+Share my work — spread the knowledge
+Provide feedback — help me improve
+Connect with me — let's build something together
 
 ### Support Independent Security Research & Accessible Labs
 
 [![GitHub Sponsor](https://img.shields.io/badge/Sponsor-%E2%9D%A4-db61a2.svg?logo=GitHub&style=for-the-badge)](https://github.com/sponsors/OP-88)
 [![Support on Ko-fi](https://img.shields.io/badge/Support%20on%20Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/op88)
 
-*Building local-first defensive tooling and accessible, hands-on security infrastructure with Cybersec Labs.*
-
-</div>
----
-
-![Wave](https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif)
-
-**⚡ Remember: Security is not a feature, it's a foundation ⚡**
+Building local-first defensive tooling and accessible, hands-on security infrastructure with Cybersec Labs.
 
 ---
 
-## 🎯 SPECIALIZED SKILLS MATRIX
+## Cybersecurity Competency Map
 
-<div align="center">
+| Security Domain | Knowledge Level |
+|-----------------|-----------------|
+| Digital Forensics | Advanced |
+| Malware Analysis | Advanced |
+| Device Hardening | Advanced |
+| Secure Code Review | Advanced |
+| Web App Security | Advanced |
+| Penetration Testing | Intermediate |
+| Network Security | Intermediate |
 
-### 🔐 Cybersecurity Competency Map
-
-| Security Domain | Knowledge Level | Change | Justification |
-|----------------|-----------------|--------|---------------|
-| 🔍 **Digital Forensics** | ⭐⭐⭐⭐☆ | NEW | Proven via Project Capture & 4rensics lab. |
-| 🔬 **Malware Analysis** | ⭐⭐⭐⭐☆ | ⬆️ (+2) | Sentinyl EDR development & ntdll hooking. |
-| 🛡️ **Device Hardening** | ⭐⭐⭐⭐☆ | NEW | Secured Fedora & custom Toolbox scripts. |
-| 🔐 **Secure Code Review** | ⭐⭐⭐⭐☆ | — | Product Security Auditor at Bricklabs. |
-| 🌐 **Web App Security** | ⭐⭐⭐⭐☆ | — | Secure architecture for Verba & Bricklabs' projects. |
-| 🕵️ **Penetration Testing** | ⭐⭐⭐☆☆ | — | Testing custom hardening scripts. |
-| 🌐 **Network Security** | ⭐⭐⭐☆☆ | — | CCNA 1-3 & Ubuntu container networking. |
-
-**Legend:** ⭐⭐⭐⭐⭐ Expert | ⭐⭐⭐⭐☆ Advanced | ⭐⭐⭐☆☆ Intermediate | ⭐⭐☆☆☆ Beginner | ⭐☆☆☆☆ Learning
-
-</div>
+Legend: Expert | Advanced | Intermediate | Beginner | Learning
 
 ---
 
+## Freelance & Project Services
 
+### Services I Offer
 
-## 💼 FREELANCE & PROJECT SERVICES
+| Security Services | Development Services | Educational Services |
+|-------------------|---------------------|---------------------|
+| **Security Code Review** | **Full-Stack Development** | **Technical Mentorship** |
+| Manual code auditing | React/Node.js applications | Code reviews |
+| SAST/DAST analysis | RESTful API development | Career guidance |
+| Vulnerability identification | Database design | Security concepts |
+| Remediation guidance | DevOps setup (Docker, CI/CD) | Best practices |
+| **Penetration Testing** | **Security-First Development** | **Content Creation** |
+| Web application testing | Secure coding practices | Technical documentation |
+| API security assessment | Authentication/Authorization | Security tutorials |
+| OWASP Top 10 verification | Data encryption | Blog posts |
+| Detailed reporting | Security hardening | Video walkthroughs |
 
-<div align="center">
-
-### 🛠️ Services I Offer
-
-<table>
-<tr>
-<td width="33%" align="center">
-
-#### 🔐 Security Services
-
-**Security Code Review**
-- Manual code auditing
-- SAST/DAST analysis
-- Vulnerability identification
-- Remediation guidance
-
-**Penetration Testing**
-- Web application testing
-- API security assessment
-- OWASP Top 10 verification
-- Detailed reporting
-
-**Rate:** Negotiable based on scope
-
-</td>
-<td width="33%" align="center">
-
-#### 💻 Development Services
-
-**Full-Stack Development**
-- React/Node.js applications
-- RESTful API development
-- Database design
-- DevOps setup (Docker, CI/CD)
-
-**Security-First Development**
-- Secure coding practices
-- Authentication/Authorization
-- Data encryption
-- Security hardening
-
-**Rate:** $15-30/hour (Entry-level)
-
-</td>
-<td width="33%" align="center">
-
-#### 🎓 Educational Services
-
-**Technical Mentorship**
-- Code reviews
-- Career guidance
-- Security concepts
-- Best practices
-
-**Content Creation**
-- Technical documentation
-- Security tutorials
-- Blog posts
-- Video walkthroughs
-
-**Rate:** Free for students
-*Paid for companies*
-
-</td>
-</tr>
-</table>
-
-### 📋 Work With Me
+**Rates:**
+- Security Services: Negotiable based on scope
+- Development Services: $15-30/hour (Entry-level)
+- Educational Services: Free for students, paid for companies
 
 **Preferred Project Types:**
-- ✅ Open-source security tools
-- ✅ Educational platforms
-- ✅ Web applications (security-focused)
-- ✅ Security audits for startups
-- ✅ CTF challenge development
+- Open-source security tools
+- Educational platforms
+- Web applications (security-focused)
+- Security audits for startups
+- CTF challenge development
 
+---
 
-</div>
-
-
-<sub>Last Updated: August 2026 | Built with ❤️</sub>
-
-</div>
+<sub>Last Updated: October 2026</sub>
