@@ -150,13 +150,17 @@ A local-first desktop application engineered for security professionals. <br> Fe
   - GitHub Actions: tests → amd64+arm64 snap builds → Snap Store publish on every tag
   - Full test suite runs as a gate on every push/PR
 
-<div align="center">
+<div align="left">
   <b>🔗 Live Demo / Download:</b><br><br>
   <a href="https://snapcraft.io/capture">
     <img alt="Get it from the Snap Store" src="https://snapcraft.io/en/dark/install.svg" />
   </a>
 </div>
-
+<div>
+ [![Active Workstations](https://img.shields.io/badge/Active%20Devices-500%2B-2ea44f?logo=ubuntu&logoColor=white)](https://snapcraft.io/capture)
+[![Territories](https://img.shields.io/badge/Territories-60%2B-blue?logo=snapcraft&logoColor=white)](https://snapcraft.io/capture)
+[![Confinement](https://img.shields.io/badge/Confinement-Strict-success.svg)](https://snapcraft.io/capture)
+</div>
 
 </div>
 
