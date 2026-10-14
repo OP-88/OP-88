@@ -367,12 +367,14 @@ Rates are negotiable depending on project scope, complexity, and timeline.
 ---
 
 ### Preferred Project Types
+<div align="left">
 
-[![Open Source](https://img.shields.io/badge/Open_Source-Security_Tools-success?style=for-the-badge)](https://github.com/OP-88)
-[![Educational](https://img.shields.io/badge/Educational-Platforms-blue?style=for-the-badge)](https://github.com/OP-88)
-[![Security](https://img.shields.io/badge/Security_Focused-Web_Apps-red?style=for-the-badge)](https://github.com/OP-88)
-[![Audits](https://img.shields.io/badge/Security-Audits_for_Startups-orange?style=for-the-badge)](https://github.com/OP-88)
-[![CTF](https://img.shields.io/badge/CTF-Challenge_Development-purple?style=for-the-badge)](https://github.com/OP-88)
+[![Defensive Tooling](https://img.shields.io/badge/Open_Source-Defensive_Tools-21262d?style=flat-square&logo=github&logoColor=58a6ff)](https://github.com/OP-88)
+[![Security Audits](https://img.shields.io/badge/Audit-Code_Review_&_AppSec-21262d?style=flat-square&logo=shield&logoColor=3fb950)](https://github.com/OP-88)
+[![Zero-Cloud Apps](https://img.shields.io/badge/Architecture-Zero--Cloud_Desktop-21262d?style=flat-square&logo=linux&logoColor=f0883e)](https://github.com/OP-88)
+[![CTF Development](https://img.shields.io/badge/Research-Forensics_&_CTF_Labs-21262d?style=flat-square&logo=target&logoColor=bc8cff)](https://github.com/OP-88)
+
+</div>
 
 </div>
 
