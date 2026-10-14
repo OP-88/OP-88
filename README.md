@@ -73,10 +73,11 @@ A local-first desktop application for security professionals. Features granular 
 - Zero Cloud Dependencies — 100% offline processing for complete privacy
 - Automated CI/CD — GitHub Actions pipeline with tests → amd64+arm64 snap builds → Snap Store publish
 
+<div align="center">
 <a href="https://snapcraft.io/capture">
   <img alt="Get it from the Snap Store" src="https://snapcraft.io/static/images/badges/en/snap-store-black.svg" height="48"/>
 </a>
-
+</div>
 ---
 
 ### SecureAuth — Multi-Factor Authentication System (Concept)
