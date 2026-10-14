@@ -284,17 +284,64 @@ Legend: Expert | Advanced | Intermediate | Beginner | Learning
 | OWASP Top 10 verification | Data encryption | Blog posts |
 | Detailed reporting | Security hardening | Video walkthroughs |
 
-**Rates:**
-- Security Services: Negotiable based on scope
-- Development Services: $15-30/hour (Entry-level)
-- Educational Services: Free for students, paid for companies
+<div align="center">
 
-**Preferred Project Types:**
-- Open-source security tools
-- Educational platforms
-- Web applications (security-focused)
-- Security audits for startups
-- CTF challenge development
+### Rates & Availability
+
+</div>
+
+<table>
+<tr>
+<td width="33%" align="center">
+
+**Security Services**
+
+```
+Negotiable
+Based on scope
+```
+
+Security audits, penetration testing, and code review services priced per engagement
+
+</td>
+<td width="33%" align="center">
+
+**Development Services**
+
+```
+$15-30/hour
+Entry-level
+```
+
+Full-stack development, API design, and DevSecOps implementation
+
+</td>
+<td width="33%" align="center">
+
+**Educational Services**
+
+```
+Free for students
+Paid for companies
+```
+
+Technical mentorship, training sessions, and content creation
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+### Preferred Project Types
+
+[![Open Source](https://img.shields.io/badge/Open_Source-Security_Tools-success?style=for-the-badge)](https://github.com/OP-88)
+[![Educational](https://img.shields.io/badge/Educational-Platforms-blue?style=for-the-badge)](https://github.com/OP-88)
+[![Security](https://img.shields.io/badge/Security_Focused-Web_Apps-red?style=for-the-badge)](https://github.com/OP-88)
+[![Audits](https://img.shields.io/badge/Security-Audits_for_Startups-orange?style=for-the-badge)](https://github.com/OP-88)
+[![CTF](https://img.shields.io/badge/CTF-Challenge_Development-purple?style=for-the-badge)](https://github.com/OP-88)
+
+</div>
 
 ---
 
