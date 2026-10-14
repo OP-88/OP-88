@@ -248,7 +248,7 @@ Connect with me — let's build something together
 
 Building local-first defensive tooling and accessible, hands-on security infrastructure with Cybersec Labs.
 
-</div>
+
 
 ---
 
@@ -284,6 +284,8 @@ Legend: Expert | Advanced | Intermediate | Beginner | Learning
 | API security assessment | Authentication/Authorization | Security tutorials |
 | OWASP Top 10 verification | Data encryption | Blog posts |
 | Detailed reporting | Security hardening | Video walkthroughs |
+
+</div>
 
 **Rates:**
 - Security Services: Negotiable based on scope
