@@ -197,6 +197,7 @@ Planned open-source authentication library implementing modern 2FA methods with 
 | Security Intern | Security-Focused Developer | Mentorship Opportunities |
 
 ---
+<div align="center">
 
 ## Support My Work
 
@@ -216,6 +217,7 @@ Connect with me — let's build something together
 Building local-first defensive tooling and accessible, hands-on security infrastructure with Cybersec Labs.
 
 ---
+</div>
 
 ## Cybersecurity Competency Map
 
