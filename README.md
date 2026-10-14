@@ -217,7 +217,7 @@ Connect with me — let's build something together
 Building local-first defensive tooling and accessible, hands-on security infrastructure with Cybersec Labs.
 
 ---
-</div>
+
 
 ## Cybersecurity Competency Map
 
@@ -263,6 +263,8 @@ Legend: Expert | Advanced | Intermediate | Beginner | Learning
 - Web applications (security-focused)
 - Security audits for startups
 - CTF challenge development
+
+</div>
 
 ---
 
