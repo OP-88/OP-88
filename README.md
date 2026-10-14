@@ -17,20 +17,17 @@
 
 <br>
 
-
-
 <div align="center">
    
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00F7F7&center=true&vCenter=true&width=800&lines=Cybersecurity+Enthusiast;Security+Architect;Building+Secure+%26+Scalable+Applications;From+Building+Apps+to+Breaking+Them+%E2%80%93+Ethically)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00F7F7&center=true&vCenter=true&width=800&lines=Cybersecurity+Professional;Security+Architect;Building+Secure+%26+Scalable+Applications;From+Building+Apps+to+Breaking+Them+%E2%80%93+Ethically)](https://git.io/typing-svg)
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="800">
-
 
 ![Profile Views](https://komarev.com/ghpvc/?username=OP-88&color=00f7f7&style=for-the-badge&label=PROFILE+VIEWS)
 [![GitHub followers](https://img.shields.io/github/followers/OP-88?style=for-the-badge&color=00f7f7&labelColor=0d1117)](https://github.com/OP-88?tab=followers)
 
 </div>
+
 ## About
 
 I'm a cybersecurity professional with hands-on experience in application security, penetration testing, and secure software development. I bridge development and security through practical, offensive and defensive expertise.
@@ -49,44 +46,78 @@ I'm a cybersecurity professional with hands-on experience in application securit
 
 ## Featured Projects
 
-### Capture — Forensic-Grade Screenshot Enhancement Tool
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Capture
+> Forensic-Grade Screenshot Enhancement Tool
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github)](https://github.com/OP-88/Capture)
-[![Snap Store](https://img.shields.io/badge/Snap-capture-E95420?style=for-the-badge&logo=snapcraft&logoColor=white)](https://snapcraft.io/capture)
-[![Docker Hub](https://img.shields.io/docker/v/ogq0w3efq/capture?style=for-the-badge&label=Docker%20Hub)](https://hub.docker.com/r/ogq0w3efq/capture)
-[![CI](https://img.shields.io/github/actions/workflow/status/OP-88/Capture/ci.yml?style=for-the-badge&label=CI&logo=github-actions)](https://github.com/OP-88/Capture/actions/workflows/ci.yml)
-[![Status](https://img.shields.io/badge/Status-Released_v2.0.3-success?style=for-the-badge)](https://github.com/OP-88/Capture/releases)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_Code-181717?style=for-the-badge&logo=github)](https://github.com/OP-88/Capture)
+[![Snap Store](https://img.shields.io/badge/Snap_Store-Install-E95420?style=for-the-badge&logo=snapcraft&logoColor=white)](https://snapcraft.io/capture)
+
+[![Docker Hub](https://img.shields.io/docker/v/ogq0w3efq/capture?style=flat-square&logo=docker&label=Docker&color=2496ED)](https://hub.docker.com/r/ogq0w3efq/capture)
+[![CI Status](https://img.shields.io/github/actions/workflow/status/OP-88/Capture/ci.yml?style=flat-square&logo=github-actions&label=Build)](https://github.com/OP-88/Capture/actions/workflows/ci.yml)
+[![Release](https://img.shields.io/badge/Release-v2.0.3-success?style=flat-square&logo=github)](https://github.com/OP-88/Capture/releases)
 
 </div>
 
-A local-first desktop application for security professionals. Features granular image quality adjustments, automatic PII redaction (API keys, IPs, emails) via regex and OCR, and maintains strict chain-of-custody. Zero-cloud architecture ensures no sensitive data leaves the machine. Published to the Snap Store with fully automated CI/CD pipeline.
+```
+Stack: Python 3.12+ | PySide6 | OpenCV | Tesseract | SQLite
+```
 
-**Tech Stack:** Python 3.12+, PySide6, OpenCV, Pillow, Tesseract (pytesseract), SQLite, SQLAlchemy, Snap, Docker
+Local-first desktop application engineered for security professionals. Combines granular image enhancement with automatic PII redaction (API keys, IPs, emails) via OCR and regex pattern matching. Maintains strict chain-of-custody with zero-cloud architecture.
 
-**Key Features:**
-- Local PII Sanitization — Automatic redaction of IPs, emails, and API keys via OCR and regex
-- Granular Enhancement — Professional-grade brightness, contrast, saturation, and sharpness controls
-- Smart Download — Save to Home, Pictures, Documents, Downloads, or custom paths with EXIF stripped
-- Forensic Integrity — Database-backed vault preserving original captures for chain-of-custody
-- Zero Cloud Dependencies — 100% offline processing for complete privacy
-- Automated CI/CD — GitHub Actions pipeline with tests → amd64+arm64 snap builds → Snap Store publish
+**Core Capabilities:**
+- **PII Sanitization** — OCR-powered automatic redaction
+- **Forensic Integrity** — Database-backed chain-of-custody
+- **Smart Export** — EXIF stripping with flexible paths
+- **Automated Pipeline** — GitHub Actions → multi-arch → Snap Store
 
 <div align="center">
+
 <a href="https://snapcraft.io/capture">
-  <img alt="Get it from the Snap Store" src="https://snapcraft.io/static/images/badges/en/snap-store-black.svg" height="48"/>
+  <img alt="Get it from the Snap Store" src="https://snapcraft.io/static/images/badges/en/snap-store-white.svg" height="60"/>
 </a>
+
 </div>
----
 
-### SecureAuth — Multi-Factor Authentication System (Concept)
+</td>
+<td width="50%" valign="top">
 
-Planned open-source authentication library implementing modern 2FA methods with zero-trust architecture.
+### SecureAuth
+> Multi-Factor Authentication System
 
-**Planned Tech Stack:** Node.js, Express, PostgreSQL, Redis, JWT
+<div align="center">
 
-**Planned Features:** TOTP, SMS/Email verification, WebAuthn biometric support, rate limiting, session management
+[![Status](https://img.shields.io/badge/Status-In_Development-blue?style=for-the-badge)](https://github.com/OP-88)
+[![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](https://github.com/OP-88)
+
+</div>
+
+```
+Stack: Node.js | Express | PostgreSQL | Redis | JWT
+```
+
+Open-source authentication library implementing modern 2FA methods with zero-trust architecture. Designed for developers who need production-ready authentication without the vendor lock-in.
+
+**Planned Features:**
+- **TOTP Support** — Time-based One-Time Passwords
+- **WebAuthn** — Hardware key & biometric authentication
+- **Multi-Channel** — SMS/Email verification flows
+- **Session Security** — Comprehensive session management
+- **Rate Limiting** — Built-in DoS protection
+- **Audit Logging** — Complete authentication event tracking
+
+<br>
+
+**Target Release:** Q1 2027
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -197,16 +228,17 @@ Planned open-source authentication library implementing modern 2FA methods with 
 | Security Intern | Security-Focused Developer | Mentorship Opportunities |
 
 ---
+
 <div align="center">
 
 ## Support My Work
 
 If you find my projects helpful:
 
-Star my repositories — helps others discover the projects
-Fork and contribute — open source thrives on collaboration
-Share my work — spread the knowledge
-Provide feedback — help me improve
+Star my repositories — helps others discover the projects  
+Fork and contribute — open source thrives on collaboration  
+Share my work — spread the knowledge  
+Provide feedback — help me improve  
 Connect with me — let's build something together
 
 ### Support Independent Security Research & Accessible Labs
@@ -216,8 +248,9 @@ Connect with me — let's build something together
 
 Building local-first defensive tooling and accessible, hands-on security infrastructure with Cybersec Labs.
 
----
+</div>
 
+---
 
 ## Cybersecurity Competency Map
 
@@ -263,8 +296,6 @@ Legend: Expert | Advanced | Intermediate | Beginner | Learning
 - Web applications (security-focused)
 - Security audits for startups
 - CTF challenge development
-
-</div>
 
 ---
 
