@@ -1,4 +1,36 @@
+<br>
 
+```ascii
+                            ╔═════════════════════════════════════════════════════════════╗
+                            ║                                                             ║
+                            ║          ██████╗ ██████╗       █████╗  █████╗               ║
+                            ║         ██╔═══██╗██╔══██╗     ██╔══██╗██╔══██╗              ║
+                            ║         ██║   ██║██████╔╝     ╚█████╔╝╚█████╔╝              ║
+                            ║         ██║   ██║██╔═══╝      ██╔══██╗██╔══██╗              ║
+                            ║         ╚██████╔╝██║          ╚█████╔╝╚█████╔╝              ║
+                            ║          ╚═════╝ ╚═╝           ╚════╝  ╚════╝               ║
+                            ║                                                             ║
+                            ║         Full stack developer | Ethical Hacker               ║
+                            ║                                                             ║
+                            ╚═════════════════════════════════════════════════════════════╝
+```
+
+<br>
+
+
+
+<div align="center">
+   
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00F7F7&center=true&vCenter=true&width=800&lines=Cybersecurity+Enthusiast;Security+Architect;Building+Secure+%26+Scalable+Applications;From+Building+Apps+to+Breaking+Them+%E2%80%93+Ethically)](https://git.io/typing-svg)
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="800">
+
+
+![Profile Views](https://komarev.com/ghpvc/?username=OP-88&color=00f7f7&style=for-the-badge&label=PROFILE+VIEWS)
+[![GitHub followers](https://img.shields.io/github/followers/OP-88?style=for-the-badge&color=00f7f7&labelColor=0d1117)](https://github.com/OP-88?tab=followers)
+
+</div>
 ## About
 
 I'm a cybersecurity professional with hands-on experience in application security, penetration testing, and secure software development. I bridge development and security through practical, offensive and defensive expertise.
