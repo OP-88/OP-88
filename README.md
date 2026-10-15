@@ -79,7 +79,7 @@ Local-first desktop application engineered for security professionals. Combines 
 <div align="center">
 
 <a href="https://snapcraft.io/capture">
-  <img alt="Get it from the Snap Store" src="https://snapcraft.io/static/images/badges/en/snap-store-white.svg" height="60"/>
+  <img alt="Get it from the Snap Store" src="https://snapcraft.io/static/images/badges/en/snap-store-dark.svg" height="60"/>
 </a>
 
 </div>
@@ -116,6 +116,7 @@ Zero-knowledge biometric authentication engine for Linux using infrared cameras.
 
 </td>
 </tr>
+//
 </table>
 
 ---
