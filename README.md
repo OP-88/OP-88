@@ -121,7 +121,6 @@ Zero-knowledge biometric authentication engine for Linux using infrared cameras.
 
 ---
 
-<div align="center">
 
 ## Technical Skills
 
@@ -192,7 +191,6 @@ security_competencies:
     - Protocol-level traffic analysis via intercepting proxies
     - Responsible disclosure and reproducible exploit PoCs
 ```
-</div>
 
 
 ## GitHub Analytics
