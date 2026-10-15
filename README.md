@@ -170,28 +170,28 @@ Zero-knowledge biometric authentication engine for Linux using infrared cameras.
 
 
 
-```yaml
-security_competencies:
-  source_code_auditing:
-    - Manual AST review and logic flow analysis
-    - Dangerous sink identification & insecure pattern matching
-    - Input sanitization and validation auditing
+   ```yaml
+   security_competencies:
+     source_code_auditing:
+       - Manual AST review and logic flow analysis
+       - Dangerous sink identification & insecure pattern matching
+       - Input sanitization and validation auditing
 
-  application_security:
-    - OWASP Top 10 remediation & threat modeling
-    - Zero-cloud architecture and secret isolation
-    - Session management, JWT, and access control integrity
+     application_security:
+       - OWASP Top 10 remediation & threat modeling
+       - Zero-cloud architecture and secret isolation
+       - Session management, JWT, and access control integrity
 
-  systems_hardening:
-    - Strict sandbox confinement (AppArmor, cgroups, Snapcraft)
-    - POSIX execution boundaries and memory integrity
-    - Upstream CVE triage and USN security patch response
-
-  vulnerability_assessment:
-    - Web application and REST API penetration testing
-    - Protocol-level traffic analysis via intercepting proxies
-    - Responsible disclosure and reproducible exploit PoCs
-```
+     systems_hardening:
+       - Strict sandbox confinement (AppArmor, cgroups, Snapcraft)
+       - POSIX execution boundaries and memory integrity
+       - Upstream CVE triage and USN security patch response
+ 
+     vulnerability_assessment:
+       - Web application and REST API penetration testing
+       - Protocol-level traffic analysis via intercepting proxies
+       - Responsible disclosure and reproducible exploit PoCs
+   ```
 
 
 ## GitHub Analytics
