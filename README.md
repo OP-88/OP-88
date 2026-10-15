@@ -208,7 +208,9 @@ Zero-knowledge biometric authentication engine for Linux using infrared cameras.
 </tr>
 </table>
 </div>
----
+
+
+
 ## GitHub Analytics
 
 <div align="center">
