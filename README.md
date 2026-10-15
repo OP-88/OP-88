@@ -121,6 +121,8 @@ Zero-knowledge biometric authentication engine for Linux using infrared cameras.
 
 ---
 
+<div align="center">
+
 ## Technical Skills
 
 ### Programming & Scripting
@@ -193,6 +195,7 @@ Zero-knowledge biometric authentication engine for Linux using infrared cameras.
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
 ---
+</div>
 
 ## GitHub Analytics
 
