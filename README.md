@@ -362,7 +362,9 @@ Legend: Expert | Advanced | Intermediate | Beginner | Learning
 **All services are priced on a per-engagement basis.**  
 Rates are negotiable depending on project scope, complexity, and timeline.
 
-[![Tuta Mail](https://img.shields.io/badge/Tuta-op__88%40tutamail.com-EA0029?style=for-the-badge&logo=tuta&logoColor=white)](mailto:op_88@tutamail.com)---
+[![Tuta Mail](https://img.shields.io/badge/Tuta-op__88%40tutamail.com-EA0029?style=for-the-badge&logo=tuta&logoColor=white)](mailto:op_88@tutamail.com)
+
+---
 
 ### Preferred Project Types
 <div align="left">
