@@ -166,14 +166,45 @@ Zero-knowledge biometric authentication engine for Linux using infrared cameras.
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Zed](https://img.shields.io/badge/Zed-18181B?style=for-the-badge&logo=zedindustries&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)<table width="100%">
 
-### Core Security Competencies
+<tr>
+<td width="50%" valign="top">
 
-* **Source Code Auditing:** Manual AST code review, insecure pattern matching, and input validation validation.
-* **Application Security:** OWASP Top 10 remediation, API authentication flow auditing, and zero-cloud architecture design.
-* **Systems Hardening:** Sandboxed confinement (AppArmor, strict Snap packaging), metadata sanitization, and CVE patch triage.
-* **Vulnerability Assessment:** Web/API penetration testing, intercepting proxy traffic analysis, and responsible disclosure workflows.
+**Source Code Auditing**
+* Manual AST review and logic flow analysis
+* Dangerous sink identification and pattern matching
+* Input validation and sanitization auditing
+
+</td>
+<td width="50%" valign="top">
+
+**Application Security**
+* OWASP Top 10 remediation and threat modeling
+* Zero-cloud architecture and secret isolation
+* Authentication, authorization, and token security
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**Systems Hardening**
+* Sandbox confinement (AppArmor, cgroups, Snap)
+* Memory integrity and POSIX execution boundaries
+* Upstream CVE triage and USN patch response
+
+</td>
+<td width="50%" valign="top">
+
+**Vulnerability Assessment**
+* Web and API penetration testing
+* Intercepting proxy and protocol-level traffic analysis
+* Coordinated vulnerability disclosure workflows
+
+</td>
+</tr>
+</table>
 ---
 </div>
 
