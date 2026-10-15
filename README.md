@@ -168,6 +168,8 @@ Zero-knowledge biometric authentication engine for Linux using infrared cameras.
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)<table width="100%">
 
+
+
 <tr>
 <td width="50%" valign="top">
 
@@ -205,7 +207,6 @@ Zero-knowledge biometric authentication engine for Linux using infrared cameras.
 </td>
 </tr>
 </table>
----
 </div>
 
 ## GitHub Analytics
