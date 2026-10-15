@@ -362,8 +362,7 @@ Legend: Expert | Advanced | Intermediate | Beginner | Learning
 **All services are priced on a per-engagement basis.**  
 Rates are negotiable depending on project scope, complexity, and timeline.
 
-[![Contact for Quote](https://img.shields.io/badge/Contact-For_Quote-00f7f7?style=for-the-badge&logo=github)](https://github.com/OP-88)
-
+[![Send Message](https://img.shields.io/badge/Leave_a_Message-Formspree-E95420?style=for-the-badge&logo=postman&logoColor=white)](https://formspree.io/f/myekbrrb)
 ---
 
 ### Preferred Project Types
