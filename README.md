@@ -20,13 +20,13 @@
 
 <div align="center">
    
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00F7F7&center=true&vCenter=true&width=800&lines=Cybersecurity+Professional;Security+Architect;Building+Secure+%26+Scalable+Applications;From+Building+Apps+to+Breaking+Them+%E2%80%93+Ethically)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=02D2D3&center=true&vCenter=true&width=800&lines=Cybersecurity+Professional;Security+Architect;Building+Secure+%26+Scalable+Applications;From+Building+Apps+to+Breaking+Them+%E2%80%93+Ethically)](https://git.io/typing-svg)
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="800">
 
-[![GitHub followers](https://img.shields.io/github/followers/OP-88?style=for-the-badge&color=00f7f7&labelColor=0d1117&logo=github)](https://github.com/OP-88?tab=followers)
+[![GitHub followers](https://img.shields.io/github/followers/OP-88?style=for-the-badge&color=02d2d3&labelColor=0d1117&logo=github)](https://github.com/OP-88?tab=followers)
 &nbsp;
-[![Email](https://img.shields.io/badge/Email-00f7f7?style=for-the-badge&logo=tuta&logoColor=white&labelColor=0d1117)](mailto:op_88@tutamail.com)
+[![Email](https://img.shields.io/badge/Email-02d2d3?style=for-the-badge&logo=tuta&logoColor=white&labelColor=0d1117)](mailto:op_88@tutamail.com)
 
 </div>
 

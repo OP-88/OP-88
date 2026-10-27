@@ -4,12 +4,12 @@
     .bg { fill: #0d1117; }
     .card { fill: #161b22; stroke: #30363d; stroke-width: 1px; rx: 8px; }
     .cat-title { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; font-size: 11px; fill: #8b949e; font-weight: 600; text-transform: uppercase; letter-spacing: 0.5px; }
-    .rank-title { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; font-size: 13px; fill: #00f7f7; font-weight: 700; }
+    .rank-title { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; font-size: 13px; fill: #02d2d3; font-weight: 700; }
     .val-text { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; font-size: 12px; fill: #c9d1d9; font-weight: 500; }
     .rank-lbl { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; font-size: 9px; fill: #8b949e; font-weight: 600; letter-spacing: 0.5px; }
     .bar-bg { fill: #21262d; rx: 2.5px; }
-    .bar-fill { fill: #00f7f7; rx: 2.5px; }
-    .icon { fill: #00f7f7; }
+    .bar-fill { fill: #02d2d3; rx: 2.5px; }
+    .icon { fill: #02d2d3; }
   </style>
   <rect width="820" height="230" class="bg" rx="10"/>
 
@@ -19,14 +19,14 @@
       <path d="M11.93 8.5a4.002 4.002 0 0 1-7.86 0H.75a.75.75 0 0 1 0-1.5h3.32a4.002 4.002 0 0 1 7.86 0h3.32a.75.75 0 0 1 0 1.5h-3.32zM8 10a2 2 0 1 0 0-4 2 2 0 0 0 0 4z"/>
     </g>
     <text x="38" y="24" class="cat-title">Commits</text>
-    <text x="14" y="48" class="rank-title">Hyper Committer</text>
-    <text x="14" y="65" class="val-text">898</text>
+    <text x="14" y="48" class="rank-title">Master Committer</text>
+    <text x="14" y="65" class="val-text">1,808</text>
     
     <!-- Progress bar -->
     <text x="14" y="82" class="rank-lbl">RANK</text>
     <rect x="44" y="75" width="160" height="5" class="bar-bg"/>
-    <rect x="44" y="75" width="56" height="5" class="bar-fill"/>
-    <text x="212" y="82" class="rank-lbl">35%</text>
+    <rect x="44" y="75" width="115" height="5" class="bar-fill"/>
+    <text x="212" y="82" class="rank-lbl">72%</text>
   </g>
 
   <g transform="translate(282, 12)">
@@ -52,13 +52,13 @@
     </g>
     <text x="38" y="24" class="cat-title">Repositories</text>
     <text x="14" y="48" class="rank-title">System Architect</text>
-    <text x="14" y="65" class="val-text">22</text>
+    <text x="14" y="65" class="val-text">28</text>
     
     <!-- Progress bar -->
     <text x="14" y="82" class="rank-lbl">RANK</text>
     <rect x="44" y="75" width="160" height="5" class="bar-bg"/>
-    <rect x="44" y="75" width="88" height="5" class="bar-fill"/>
-    <text x="212" y="82" class="rank-lbl">55%</text>
+    <rect x="44" y="75" width="112" height="5" class="bar-fill"/>
+    <text x="212" y="82" class="rank-lbl">70%</text>
   </g>
 
   <g transform="translate(12, 121)">
@@ -68,13 +68,13 @@
     </g>
     <text x="38" y="24" class="cat-title">Stars Earned</text>
     <text x="14" y="48" class="rank-title">Rising Signal</text>
-    <text x="14" y="65" class="val-text">19 Stars</text>
+    <text x="14" y="65" class="val-text">20 Stars</text>
     
     <!-- Progress bar -->
     <text x="14" y="82" class="rank-lbl">RANK</text>
     <rect x="44" y="75" width="160" height="5" class="bar-bg"/>
-    <rect x="44" y="75" width="60" height="5" class="bar-fill"/>
-    <text x="212" y="82" class="rank-lbl">38%</text>
+    <rect x="44" y="75" width="64" height="5" class="bar-fill"/>
+    <text x="212" y="82" class="rank-lbl">40%</text>
   </g>
 
   <g transform="translate(282, 121)">

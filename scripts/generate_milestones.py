@@ -104,12 +104,12 @@ svg = f'''<?xml version="1.0" encoding="UTF-8"?>
     .bg {{ fill: #0d1117; }}
     .card {{ fill: #161b22; stroke: #30363d; stroke-width: 1px; rx: 8px; }}
     .cat-title {{ font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; font-size: 11px; fill: #8b949e; font-weight: 600; text-transform: uppercase; letter-spacing: 0.5px; }}
-    .rank-title {{ font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; font-size: 13px; fill: #00f7f7; font-weight: 700; }}
+    .rank-title {{ font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; font-size: 13px; fill: #02d2d3; font-weight: 700; }}
     .val-text {{ font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; font-size: 12px; fill: #c9d1d9; font-weight: 500; }}
     .rank-lbl {{ font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; font-size: 9px; fill: #8b949e; font-weight: 600; letter-spacing: 0.5px; }}
     .bar-bg {{ fill: #21262d; rx: 2.5px; }}
-    .bar-fill {{ fill: #00f7f7; rx: 2.5px; }}
-    .icon {{ fill: #00f7f7; }}
+    .bar-fill {{ fill: #02d2d3; rx: 2.5px; }}
+    .icon {{ fill: #02d2d3; }}
   </style>
   <rect width="{svg_width}" height="{svg_height}" class="bg" rx="10"/>
 '''
