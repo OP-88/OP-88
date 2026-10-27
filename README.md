@@ -25,6 +25,8 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="800">
 
 [![GitHub followers](https://img.shields.io/github/followers/OP-88?style=for-the-badge&color=00f7f7&labelColor=0d1117&logo=github)](https://github.com/OP-88?tab=followers)
+&nbsp;
+[![Email](https://img.shields.io/badge/Email-00f7f7?style=for-the-badge&logo=tuta&logoColor=white&labelColor=0d1117)](mailto:op_88@tutamail.com)
 
 </div>
 
