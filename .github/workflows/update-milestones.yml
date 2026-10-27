@@ -1,0 +1,43 @@
+name: Update Dynamic Milestones
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'  # Runs automatically every 6 hours
+  workflow_dispatch:        # Allows manual trigger anytime from GitHub Actions tab
+  push:
+    branches:
+      - main
+    paths:
+      - 'scripts/**'
+
+jobs:
+  update-milestones:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Generate Dynamic Milestone SVG
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          python scripts/generate_milestones.py
+
+      - name: Commit and push changes if updated
+        run: |
+          git config --local user.email "175477596+OP-88@users.noreply.github.com"
+          git config --local user.name "OP-88"
+          git add milestones.svg
+          if git diff --staged --quiet; then
+            echo "No milestone updates detected."
+          else
+            git commit -m "chore: dynamically update profile milestones [skip ci]"
+            git push
+          fi

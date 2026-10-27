@@ -226,11 +226,11 @@ Zero-knowledge biometric authentication engine for Linux using infrared cameras.
 
 </div>
 
-### GitHub Trophies
+### GitHub Milestones
 
 <div align="center">
 
-![trophy](https://github-profile-trophy.vercel.app/?username=OP-88&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7)
+<img src="./milestones.svg" alt="GitHub Milestones" width="820"/>
 
 </div>
 
