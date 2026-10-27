@@ -11,7 +11,7 @@
                             ║       ╚██████╔╝██║                ╚█████╔╝ ╚█████╔╝       ║
                             ║        ╚═════╝ ╚═╝                 ╚════╝   ╚════╝        ║
                             ║                                                           ║
-                            ║           Full stack developer | Security Engineer        ║
+                            ║           Full-Stack Developer | Security Engineer        ║
                             ║                                                           ║
                             ╚═══════════════════════════════════════════════════════════╝
 ```
