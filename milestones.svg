@@ -20,7 +20,7 @@
     </g>
     <text x="38" y="24" class="cat-title">Commits</text>
     <text x="14" y="48" class="rank-title">Hyper Committer</text>
-    <text x="14" y="65" class="val-text">901</text>
+    <text x="14" y="65" class="val-text">902</text>
     
     <!-- Progress bar -->
     <text x="14" y="82" class="rank-lbl">RANK</text>
@@ -36,13 +36,13 @@
     </g>
     <text x="38" y="24" class="cat-title">Followers</text>
     <text x="14" y="48" class="rank-title">Network Anchor</text>
-    <text x="14" y="65" class="val-text">302</text>
+    <text x="14" y="65" class="val-text">305</text>
     
     <!-- Progress bar -->
     <text x="14" y="82" class="rank-lbl">RANK</text>
     <rect x="44" y="75" width="160" height="5" class="bar-bg"/>
-    <rect x="44" y="75" width="96" height="5" class="bar-fill"/>
-    <text x="212" y="82" class="rank-lbl">60%</text>
+    <rect x="44" y="75" width="97" height="5" class="bar-fill"/>
+    <text x="212" y="82" class="rank-lbl">61%</text>
   </g>
 
   <g transform="translate(552, 12)">
