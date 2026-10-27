@@ -80,35 +80,21 @@ cards = [
         "icon": '<path d="M7.177 3.073L9.573.677A.25.25 0 0 1 10 .854v4.792a.25.25 0 0 1-.427.177L7.177 3.427a.25.25 0 0 1 0-.354zM3.75 2.5a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5zm-2.25.75a2.25 2.25 0 1 1 3 2.122v5.256a2.251 2.251 0 1 1-1.5 0V5.372A2.25 2.25 0 0 1 1.5 3.25zM11 2.5h-1V4h1a1 1 0 0 1 1 1v4.75a2.25 2.25 0 1 1-1.5 0V6a2.5 2.5 0 0 0-2.5-2.5z"/>'
     },
     {
-        "category": "Issues Resolved",
-        "rank": "Triage &amp; Fix",
-        "value": f"{issues} Issues",
-        "percent": min(100, int((issues / 15) * 100)),
-        "icon": '<path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3z"/><path fill-rule="evenodd" d="M8 0a8 8 0 1 0 0 16A8 8 0 0 0 8 0zM1.5 8a6.5 6.5 0 1 1 13 0 6.5 6.5 0 0 1-13 0z"/>'
-    },
-    {
         "category": "Tenure",
         "rank": f"{years_active:.1f} Years Active",
         "value": f"{days_active} Days",
         "percent": min(100, int((days_active / 1000) * 100)),
         "icon": '<path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0zm.75 4.75a.75.75 0 0 0-1.5 0v3.5a.75.75 0 0 0 .37.65l2.5 1.5a.75.75 0 1 0 .76-1.3L8.75 7.88V4.75z"/>'
-    },
-    {
-        "category": "Security Hardening",
-        "rank": "Secured Stack",
-        "value": "Zero-Leak",
-        "percent": 98,
-        "icon": '<path fill-rule="evenodd" d="M7.467.133a1.75 1.75 0 0 1 1.066 0l5.25 1.68A1.75 1.75 0 0 1 15 3.48v4.27c0 4.29-2.78 8.03-6.79 9.2a.75.75 0 0 1-.42 0C3.78 15.78 1 12.04 1 7.75V3.48a1.75 1.75 0 0 1 1.217-1.667l5.25-1.68zM8 1.625l-5.25 1.68a.25.25 0 0 0-.174.238v4.207c0 3.63 2.37 6.8 5.797 7.792l.02.006.02-.006C11.83 14.55 14.2 11.38 14.2 7.75V3.543a.25.25 0 0 0-.174-.238L8.773 1.625a.25.25 0 0 0-.153 0z"/>'
     }
 ]
 
 svg_width = 820
 svg_height = 230
-cols = 4
-card_w = 190
+cols = 3
+card_w = 256
 card_h = 95
-gap_x = 12
-gap_y = 12
+gap_x = 14
+gap_y = 14
 start_x = 12
 start_y = 12
 
@@ -146,9 +132,9 @@ for i, card in enumerate(cards):
     
     <!-- Progress bar -->
     <text x="14" y="82" class="rank-lbl">RANK</text>
-    <rect x="44" y="75" width="105" height="5" class="bar-bg"/>
-    <rect x="44" y="75" width="{int(105 * (card["percent"] / 100))}" height="5" class="bar-fill"/>
-    <text x="156" y="82" class="rank-lbl">{card["percent"]}%</text>
+    <rect x="44" y="75" width="160" height="5" class="bar-bg"/>
+    <rect x="44" y="75" width="{int(160 * (card["percent"] / 100))}" height="5" class="bar-fill"/>
+    <text x="212" y="82" class="rank-lbl">{card["percent"]}%</text>
   </g>
 '''
 

@@ -14,23 +14,23 @@
   <rect width="820" height="230" class="bg" rx="10"/>
 
   <g transform="translate(12, 12)">
-    <rect width="190" height="95" class="card"/>
+    <rect width="256" height="95" class="card"/>
     <g transform="translate(14, 12)" class="icon">
       <path d="M11.93 8.5a4.002 4.002 0 0 1-7.86 0H.75a.75.75 0 0 1 0-1.5h3.32a4.002 4.002 0 0 1 7.86 0h3.32a.75.75 0 0 1 0 1.5h-3.32zM8 10a2 2 0 1 0 0-4 2 2 0 0 0 0 4z"/>
     </g>
     <text x="38" y="24" class="cat-title">Commits</text>
-    <text x="14" y="48" class="rank-title">Hyper Committer</text>
-    <text x="14" y="65" class="val-text">897</text>
+    <text x="14" y="48" class="rank-title">Master Committer</text>
+    <text x="14" y="65" class="val-text">1,805</text>
     
     <!-- Progress bar -->
     <text x="14" y="82" class="rank-lbl">RANK</text>
-    <rect x="44" y="75" width="105" height="5" class="bar-bg"/>
-    <rect x="44" y="75" width="36" height="5" class="bar-fill"/>
-    <text x="156" y="82" class="rank-lbl">35%</text>
+    <rect x="44" y="75" width="160" height="5" class="bar-bg"/>
+    <rect x="44" y="75" width="115" height="5" class="bar-fill"/>
+    <text x="212" y="82" class="rank-lbl">72%</text>
   </g>
 
-  <g transform="translate(214, 12)">
-    <rect width="190" height="95" class="card"/>
+  <g transform="translate(282, 12)">
+    <rect width="256" height="95" class="card"/>
     <g transform="translate(14, 12)" class="icon">
       <path d="M5.5 3.5a2 2 0 1 0 0 4 2 2 0 0 0 0-4zM2 5.5a3.5 3.5 0 1 1 5.898 2.549 5.508 5.508 0 0 1 3.034 4.084.75.75 0 1 1-1.482.235 4.002 4.002 0 0 0-7.898 0 .75.75 0 0 1-1.482-.236A5.507 5.507 0 0 1 3.102 8.05 3.493 3.493 0 0 1 2 5.5z"/>
     </g>
@@ -40,45 +40,45 @@
     
     <!-- Progress bar -->
     <text x="14" y="82" class="rank-lbl">RANK</text>
-    <rect x="44" y="75" width="105" height="5" class="bar-bg"/>
-    <rect x="44" y="75" width="63" height="5" class="bar-fill"/>
-    <text x="156" y="82" class="rank-lbl">60%</text>
+    <rect x="44" y="75" width="160" height="5" class="bar-bg"/>
+    <rect x="44" y="75" width="96" height="5" class="bar-fill"/>
+    <text x="212" y="82" class="rank-lbl">60%</text>
   </g>
 
-  <g transform="translate(416, 12)">
-    <rect width="190" height="95" class="card"/>
+  <g transform="translate(552, 12)">
+    <rect width="256" height="95" class="card"/>
     <g transform="translate(14, 12)" class="icon">
       <path d="M2 2.5A2.5 2.5 0 0 1 4.5 0h8.75a.75.75 0 0 1 .75.75v12.5a.75.75 0 0 1-.75.75h-2.5a.75.75 0 0 1 0-1.5h1.75v-2h-8a1 1 0 0 0-.714 1.7.75.75 0 1 1-1.072 1.05A2.495 2.495 0 0 1 2 11.5v-9zm10.5-1h-8a1 1 0 0 0-1 1v6.708A2.486 2.486 0 0 1 4.5 9h8V1.5z"/>
     </g>
     <text x="38" y="24" class="cat-title">Repositories</text>
     <text x="14" y="48" class="rank-title">System Architect</text>
-    <text x="14" y="65" class="val-text">22</text>
+    <text x="14" y="65" class="val-text">28</text>
     
     <!-- Progress bar -->
     <text x="14" y="82" class="rank-lbl">RANK</text>
-    <rect x="44" y="75" width="105" height="5" class="bar-bg"/>
-    <rect x="44" y="75" width="57" height="5" class="bar-fill"/>
-    <text x="156" y="82" class="rank-lbl">55%</text>
+    <rect x="44" y="75" width="160" height="5" class="bar-bg"/>
+    <rect x="44" y="75" width="112" height="5" class="bar-fill"/>
+    <text x="212" y="82" class="rank-lbl">70%</text>
   </g>
 
-  <g transform="translate(618, 12)">
-    <rect width="190" height="95" class="card"/>
+  <g transform="translate(12, 121)">
+    <rect width="256" height="95" class="card"/>
     <g transform="translate(14, 12)" class="icon">
       <path d="M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.751.751 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25z"/>
     </g>
     <text x="38" y="24" class="cat-title">Stars Earned</text>
     <text x="14" y="48" class="rank-title">Rising Signal</text>
-    <text x="14" y="65" class="val-text">19 Stars</text>
+    <text x="14" y="65" class="val-text">20 Stars</text>
     
     <!-- Progress bar -->
     <text x="14" y="82" class="rank-lbl">RANK</text>
-    <rect x="44" y="75" width="105" height="5" class="bar-bg"/>
-    <rect x="44" y="75" width="39" height="5" class="bar-fill"/>
-    <text x="156" y="82" class="rank-lbl">38%</text>
+    <rect x="44" y="75" width="160" height="5" class="bar-bg"/>
+    <rect x="44" y="75" width="64" height="5" class="bar-fill"/>
+    <text x="212" y="82" class="rank-lbl">40%</text>
   </g>
 
-  <g transform="translate(12, 119)">
-    <rect width="190" height="95" class="card"/>
+  <g transform="translate(282, 121)">
+    <rect width="256" height="95" class="card"/>
     <g transform="translate(14, 12)" class="icon">
       <path d="M7.177 3.073L9.573.677A.25.25 0 0 1 10 .854v4.792a.25.25 0 0 1-.427.177L7.177 3.427a.25.25 0 0 1 0-.354zM3.75 2.5a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5zm-2.25.75a2.25 2.25 0 1 1 3 2.122v5.256a2.251 2.251 0 1 1-1.5 0V5.372A2.25 2.25 0 0 1 1.5 3.25zM11 2.5h-1V4h1a1 1 0 0 1 1 1v4.75a2.25 2.25 0 1 1-1.5 0V6a2.5 2.5 0 0 0-2.5-2.5z"/>
     </g>
@@ -88,29 +88,13 @@
     
     <!-- Progress bar -->
     <text x="14" y="82" class="rank-lbl">RANK</text>
-    <rect x="44" y="75" width="105" height="5" class="bar-bg"/>
-    <rect x="44" y="75" width="31" height="5" class="bar-fill"/>
-    <text x="156" y="82" class="rank-lbl">30%</text>
+    <rect x="44" y="75" width="160" height="5" class="bar-bg"/>
+    <rect x="44" y="75" width="48" height="5" class="bar-fill"/>
+    <text x="212" y="82" class="rank-lbl">30%</text>
   </g>
 
-  <g transform="translate(214, 119)">
-    <rect width="190" height="95" class="card"/>
-    <g transform="translate(14, 12)" class="icon">
-      <path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3z"/><path fill-rule="evenodd" d="M8 0a8 8 0 1 0 0 16A8 8 0 0 0 8 0zM1.5 8a6.5 6.5 0 1 1 13 0 6.5 6.5 0 0 1-13 0z"/>
-    </g>
-    <text x="38" y="24" class="cat-title">Issues Resolved</text>
-    <text x="14" y="48" class="rank-title">Triage &amp; Fix</text>
-    <text x="14" y="65" class="val-text">2 Issues</text>
-    
-    <!-- Progress bar -->
-    <text x="14" y="82" class="rank-lbl">RANK</text>
-    <rect x="44" y="75" width="105" height="5" class="bar-bg"/>
-    <rect x="44" y="75" width="13" height="5" class="bar-fill"/>
-    <text x="156" y="82" class="rank-lbl">13%</text>
-  </g>
-
-  <g transform="translate(416, 119)">
-    <rect width="190" height="95" class="card"/>
+  <g transform="translate(552, 121)">
+    <rect width="256" height="95" class="card"/>
     <g transform="translate(14, 12)" class="icon">
       <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0zm.75 4.75a.75.75 0 0 0-1.5 0v3.5a.75.75 0 0 0 .37.65l2.5 1.5a.75.75 0 1 0 .76-1.3L8.75 7.88V4.75z"/>
     </g>
@@ -120,24 +104,8 @@
     
     <!-- Progress bar -->
     <text x="14" y="82" class="rank-lbl">RANK</text>
-    <rect x="44" y="75" width="105" height="5" class="bar-bg"/>
-    <rect x="44" y="75" width="87" height="5" class="bar-fill"/>
-    <text x="156" y="82" class="rank-lbl">83%</text>
-  </g>
-
-  <g transform="translate(618, 119)">
-    <rect width="190" height="95" class="card"/>
-    <g transform="translate(14, 12)" class="icon">
-      <path fill-rule="evenodd" d="M7.467.133a1.75 1.75 0 0 1 1.066 0l5.25 1.68A1.75 1.75 0 0 1 15 3.48v4.27c0 4.29-2.78 8.03-6.79 9.2a.75.75 0 0 1-.42 0C3.78 15.78 1 12.04 1 7.75V3.48a1.75 1.75 0 0 1 1.217-1.667l5.25-1.68zM8 1.625l-5.25 1.68a.25.25 0 0 0-.174.238v4.207c0 3.63 2.37 6.8 5.797 7.792l.02.006.02-.006C11.83 14.55 14.2 11.38 14.2 7.75V3.543a.25.25 0 0 0-.174-.238L8.773 1.625a.25.25 0 0 0-.153 0z"/>
-    </g>
-    <text x="38" y="24" class="cat-title">Security Hardening</text>
-    <text x="14" y="48" class="rank-title">Secured Stack</text>
-    <text x="14" y="65" class="val-text">Zero-Leak</text>
-    
-    <!-- Progress bar -->
-    <text x="14" y="82" class="rank-lbl">RANK</text>
-    <rect x="44" y="75" width="105" height="5" class="bar-bg"/>
-    <rect x="44" y="75" width="102" height="5" class="bar-fill"/>
-    <text x="156" y="82" class="rank-lbl">98%</text>
+    <rect x="44" y="75" width="160" height="5" class="bar-bg"/>
+    <rect x="44" y="75" width="132" height="5" class="bar-fill"/>
+    <text x="212" y="82" class="rank-lbl">83%</text>
   </g>
 </svg>
