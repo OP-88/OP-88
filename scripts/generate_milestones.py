@@ -81,7 +81,7 @@ cards = [
     },
     {
         "category": "Issues Resolved",
-        "rank": "Triage & Fix",
+        "rank": "Triage &amp; Fix",
         "value": f"{issues} Issues",
         "percent": min(100, int((issues / 15) * 100)),
         "icon": '<path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3z"/><path fill-rule="evenodd" d="M8 0a8 8 0 1 0 0 16A8 8 0 0 0 8 0zM1.5 8a6.5 6.5 0 1 1 13 0 6.5 6.5 0 0 1-13 0z"/>'
@@ -112,7 +112,8 @@ gap_y = 12
 start_x = 12
 start_y = 12
 
-svg = f'''<svg width="{svg_width}" height="{svg_height}" viewBox="0 0 {svg_width} {svg_height}" fill="none" xmlns="http://www.w3.org/2000/svg">
+svg = f'''<?xml version="1.0" encoding="UTF-8"?>
+<svg width="{svg_width}" height="{svg_height}" viewBox="0 0 {svg_width} {svg_height}" fill="none" xmlns="http://www.w3.org/2000/svg">
   <style>
     .bg {{ fill: #0d1117; }}
     .card {{ fill: #161b22; stroke: #30363d; stroke-width: 1px; rx: 8px; }}

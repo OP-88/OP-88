@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <svg width="820" height="230" viewBox="0 0 820 230" fill="none" xmlns="http://www.w3.org/2000/svg">
   <style>
     .bg { fill: #0d1117; }
@@ -18,14 +19,14 @@
       <path d="M11.93 8.5a4.002 4.002 0 0 1-7.86 0H.75a.75.75 0 0 1 0-1.5h3.32a4.002 4.002 0 0 1 7.86 0h3.32a.75.75 0 0 1 0 1.5h-3.32zM8 10a2 2 0 1 0 0-4 2 2 0 0 0 0 4z"/>
     </g>
     <text x="38" y="24" class="cat-title">Commits</text>
-    <text x="14" y="48" class="rank-title">Hyper Committer</text>
-    <text x="14" y="65" class="val-text">895</text>
+    <text x="14" y="48" class="rank-title">Master Committer</text>
+    <text x="14" y="65" class="val-text">1,803</text>
     
     <!-- Progress bar -->
     <text x="14" y="82" class="rank-lbl">RANK</text>
     <rect x="44" y="75" width="105" height="5" class="bar-bg"/>
-    <rect x="44" y="75" width="36" height="5" class="bar-fill"/>
-    <text x="156" y="82" class="rank-lbl">35%</text>
+    <rect x="44" y="75" width="75" height="5" class="bar-fill"/>
+    <text x="156" y="82" class="rank-lbl">72%</text>
   </g>
 
   <g transform="translate(214, 12)">
@@ -51,13 +52,13 @@
     </g>
     <text x="38" y="24" class="cat-title">Repositories</text>
     <text x="14" y="48" class="rank-title">System Architect</text>
-    <text x="14" y="65" class="val-text">22</text>
+    <text x="14" y="65" class="val-text">28</text>
     
     <!-- Progress bar -->
     <text x="14" y="82" class="rank-lbl">RANK</text>
     <rect x="44" y="75" width="105" height="5" class="bar-bg"/>
-    <rect x="44" y="75" width="57" height="5" class="bar-fill"/>
-    <text x="156" y="82" class="rank-lbl">55%</text>
+    <rect x="44" y="75" width="73" height="5" class="bar-fill"/>
+    <text x="156" y="82" class="rank-lbl">70%</text>
   </g>
 
   <g transform="translate(618, 12)">
@@ -67,13 +68,13 @@
     </g>
     <text x="38" y="24" class="cat-title">Stars Earned</text>
     <text x="14" y="48" class="rank-title">Rising Signal</text>
-    <text x="14" y="65" class="val-text">19 Stars</text>
+    <text x="14" y="65" class="val-text">20 Stars</text>
     
     <!-- Progress bar -->
     <text x="14" y="82" class="rank-lbl">RANK</text>
     <rect x="44" y="75" width="105" height="5" class="bar-bg"/>
-    <rect x="44" y="75" width="39" height="5" class="bar-fill"/>
-    <text x="156" y="82" class="rank-lbl">38%</text>
+    <rect x="44" y="75" width="42" height="5" class="bar-fill"/>
+    <text x="156" y="82" class="rank-lbl">40%</text>
   </g>
 
   <g transform="translate(12, 119)">
@@ -98,7 +99,7 @@
       <path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3z"/><path fill-rule="evenodd" d="M8 0a8 8 0 1 0 0 16A8 8 0 0 0 8 0zM1.5 8a6.5 6.5 0 1 1 13 0 6.5 6.5 0 0 1-13 0z"/>
     </g>
     <text x="38" y="24" class="cat-title">Issues Resolved</text>
-    <text x="14" y="48" class="rank-title">Triage & Fix</text>
+    <text x="14" y="48" class="rank-title">Triage &amp; Fix</text>
     <text x="14" y="65" class="val-text">2 Issues</text>
     
     <!-- Progress bar -->
