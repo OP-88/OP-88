@@ -20,7 +20,7 @@
     </g>
     <text x="38" y="24" class="cat-title">Commits</text>
     <text x="14" y="48" class="rank-title">Hyper Committer</text>
-    <text x="14" y="65" class="val-text">848</text>
+    <text x="14" y="65" class="val-text">849</text>
     
     <!-- Progress bar -->
     <text x="14" y="82" class="rank-lbl">RANK</text>
@@ -36,13 +36,13 @@
     </g>
     <text x="38" y="24" class="cat-title">Followers</text>
     <text x="14" y="48" class="rank-title">Network Anchor</text>
-    <text x="14" y="65" class="val-text">325</text>
+    <text x="14" y="65" class="val-text">324</text>
     
     <!-- Progress bar -->
     <text x="14" y="82" class="rank-lbl">RANK</text>
     <rect x="44" y="75" width="160" height="5" class="bar-bg"/>
-    <rect x="44" y="75" width="104" height="5" class="bar-fill"/>
-    <text x="212" y="82" class="rank-lbl">65%</text>
+    <rect x="44" y="75" width="102" height="5" class="bar-fill"/>
+    <text x="212" y="82" class="rank-lbl">64%</text>
   </g>
 
   <g transform="translate(552, 12)">
@@ -100,7 +100,7 @@
     </g>
     <text x="38" y="24" class="cat-title">Tenure</text>
     <text x="14" y="48" class="rank-title">2.3 Years Active</text>
-    <text x="14" y="65" class="val-text">848 Days</text>
+    <text x="14" y="65" class="val-text">849 Days</text>
     
     <!-- Progress bar -->
     <text x="14" y="82" class="rank-lbl">RANK</text>
