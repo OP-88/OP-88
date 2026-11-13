@@ -98,7 +98,7 @@ Local-first desktop application engineered for security professionals. Combines 
 [![License](https://img.shields.io/badge/License-GPL--3.0-green?style=for-the-badge)](https://github.com/OP-88/Linux-based-IR-camera-Face-unlock)
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue?style=flat-square&logo=python)](https://www.python.org/)
-[![Status](https://img.shields.io/badge/Status-Production-success?style=flat-square)](https://github.com/OP-88/Linux-based-IR-camera-Face-unlock)
+[![Status](https://img.shields.io/badge/Status-In_Development-orange?style=flat-square)](https://github.com/OP-88/Linux-based-IR-camera-Face-unlock)
 
 </div>
 
